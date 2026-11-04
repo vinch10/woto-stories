@@ -5,6 +5,8 @@ Créneaux, heure de Bruxelles : 7h30, 16h00, 20h00, tous les jours. Une story pa
 Les 3 stories du lendemain sont préparées et programmées chaque matin, et affichées dans `README.md` : Vincent voit toujours aujourd'hui et demain, et peut intervenir. Un visuel retiré par Vincent dans GHL n'est pas reprogrammé.
 
 ## Choix de la voiture
+- Avant chaque choix, scanner tout le stock avec `python3 scripts/scan.py` : il lit le sitemap des annonces et des garages, donc toutes les fiches, pas seulement la page d'accueil. Si le nombre de fiches lues diffère du sitemap, le signaler. Ne jamais choisir à partir de la page d'accueil.
+- Comparer les vendeurs du scan à `garages.json` : tout vendeur absent est un nouveau garage.
 - Un garage différent à chaque passage. Un garage ne repasse pas tant que tous les autres garages connus ne sont pas passés. Ordre aléatoire à chaque tour.
 - Garage nouveau repéré sur le site : l'ajouter à `garages.json`, il passe en priorité.
 - Voiture au hasard dans le stock du garage. Règle absolue de Vincent : ne jamais publier deux fois le même véhicule. Une voiture présente dans `state.json` ne repasse jamais, sans exception ni délai. Avant de programmer, vérifier l'URL de la fiche dans `state.json` et les posts GHL.
