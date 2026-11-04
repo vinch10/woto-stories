@@ -1,6 +1,6 @@
 # Planning des stories Woto
 
-Mis à jour chaque matin. Heures de Bruxelles. Lien sur chaque story : vrai sticker « Voir l'annonce → ».
+Mis à jour chaque matin. Heures de Bruxelles. Instagram : sticker « Voir l'annonce → ». Facebook : lien « Voir plus ».
 
 ## Mercredi 4 novembre
 
