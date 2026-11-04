@@ -29,6 +29,12 @@
       "slot": "2026-11-05T20:00",
       "garage": "garage-des-chaufours",
       "listing": "https://app.woto.be/listings/audi/a3/41a1aa40-79b0-40fe-95d2-1223ea0a48b8"
+    },
+    {
+      "slot": "2026-11-04T17:58",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/listings/abarth/595c/23fb3f9b-a906-46f7-9d3c-0a41a6a1f8dc",
+      "note": "test du lien via Meta Business Suite, Facebook uniquement"
     }
   ]
 }
