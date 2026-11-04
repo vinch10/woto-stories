@@ -12,7 +12,8 @@ Créneaux, heure de Bruxelles : 7h30, 16h00, 20h00, tous les jours. Une story pa
 - Rendu avec `scripts/render_story.py`, sans changer le gabarit.
 - Photo : première photo de la galerie sans cadre ni bandeau de garage, qui montre la voiture entière. Régler `--focus` pour centrer la voiture.
 - Logo : celui de `assets/logos/` s'il existe, sinon celui de la fiche. S'il s'agit d'une affiche, garder seulement le bandeau avec le nom.
-- Regarder le JPEG avant publication : voiture lisible, texte exact, logo propre. Sinon changer de photo ou de voiture.
+- Gabarit validé par Vincent le 4 novembre 2026 (courbe haute, voir `stories/2026-11-04/`) : ne pas modifier la courbe, les couleurs, la typo ni les positions.
+- Regarder le JPEG avant publication et le comparer à `stories/2026-11-04/woto-annonce-trafic.jpg`. La voiture doit être entière et bien visible : toit jamais coupé par la courbe, roues et pare-chocs jamais coupés par les bords ni cachés par le bouton. Texte exact, logo propre. Si ce n'est pas le cas, régler `--focus`, changer de photo ou de voiture. Ne jamais publier un visuel qui ne respecte pas ces points.
 - Jamais d'image générée par IA.
 
 ## Texte
