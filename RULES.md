@@ -2,11 +2,15 @@
 
 Créneaux, heure de Bruxelles : 7h30, 16h00, 20h00, tous les jours. Une story par créneau, sur Facebook et Instagram.
 
+Les 3 stories du lendemain sont préparées et programmées chaque matin, et affichées dans `README.md` : Vincent voit toujours aujourd'hui et demain, et peut intervenir. Un visuel retiré par Vincent dans GHL n'est pas reprogrammé.
+
 ## Choix de la voiture
 - Un garage différent à chaque passage. Un garage ne repasse pas tant que tous les autres garages connus ne sont pas passés. Ordre aléatoire à chaque tour.
 - Garage nouveau repéré sur le site : l'ajouter à `garages.json`, il passe en priorité.
 - Voiture au hasard dans le stock du garage, jamais une voiture déjà présente dans `state.json`, sauf si le garage n'a plus rien d'autre.
-- Écarter une fiche si : voiture vendue ou fiche indisponible, prix ou kilométrage absent, kilométrage différent entre le champ et la description ou le titre, aucune photo correcte.
+- Pas deux fois la même voiture en 7 jours. Un garage qui n'a que des voitures déjà passées dans ces 7 jours est sauté à ce tour.
+- Écarter une fiche si : voiture vendue ou fiche indisponible, prix ou kilométrage absent, écart de kilométrage sans explication, aucune photo correcte.
+- Kilométrage : si la description donne un chiffre certifié Car-Pass, afficher ce chiffre, même s'il diffère du champ arrondi de la fiche. Sinon, afficher le champ.
 
 ## Visuel
 - Rendu avec `scripts/render_story.py`, sans changer le gabarit.
