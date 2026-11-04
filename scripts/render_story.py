@@ -15,7 +15,7 @@ from PIL import Image
 from playwright.async_api import async_playwright
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-PHOTO_H = 910
+PHOTO_H = 870
 
 
 def crop_photo(src, focus, dst):
@@ -42,8 +42,8 @@ async def render(args):
         lw, lh = fit_logo(args.logo, box)
         page_html = f"""<!doctype html><meta charset=utf-8><style>*{{box-sizing:border-box}}body{{margin:0}}</style>
 <div style="position:relative;width:1080px;height:1920px;overflow:hidden;font-family:'Inter Display','Inter';color:#021D10;background:#021D10">
-<img src="file://{photo}" style="position:absolute;left:0;top:640px;width:1080px;height:910px;object-fit:cover">
-<svg style="position:absolute;left:0;top:0" width="1080" height="1100" viewBox="0 0 1080 1100"><path d="M0 0H1080V730Q540 1070 0 730Z" fill="#D5F7AD"/></svg>
+<img src="file://{photo}" style="position:absolute;left:0;top:680px;width:1080px;height:870px;object-fit:cover">
+<svg style="position:absolute;left:0;top:0" width="1080" height="1100" viewBox="0 0 1080 1100"><path d="M0 0H1080V690Q540 870 0 690Z" fill="#D5F7AD"/></svg>
 <img src="file://{ROOT}/assets/wordmark_forest.png" style="position:absolute;left:456px;top:250px;height:50px">
 <div style="position:absolute;left:0;right:0;top:345px;text-align:center;font-weight:500;font-size:66px;letter-spacing:-.025em;line-height:1.1">{html.escape(args.title)}</div>
 <div style="position:absolute;left:0;right:0;top:425px;text-align:center;font-weight:800;font-size:150px;letter-spacing:-.04em;line-height:1.05;white-space:nowrap">{html.escape(args.price)}</div>
