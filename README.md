@@ -6,8 +6,8 @@ Mis à jour chaque matin. Heures de Bruxelles. Lien sur chaque story : vrai stic
 
 | 20h |
 |---|
-| <img src="stories/2026-11-04/woto-annonce-bmw.jpg" width="220"> |
-| BMW X4, Garage des Chaufours (ancien format, via GHL) |
+| <img src="stories/2026-11-04/woto-bmw-x4-sans-bouton.jpg" width="220"> |
+| BMW X4, Garage des Chaufours |
 
 ## Jeudi 5 novembre
 
