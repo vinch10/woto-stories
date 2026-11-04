@@ -3,32 +3,38 @@
     {
       "slot": "2026-11-04T11:55",
       "garage": "wattiez-motors-srl",
-      "listing": "https://app.woto.be/listings/opel/zafira-tourer/a26ca806-3acf-47f7-9cb5-e9b608692489"
+      "listing": "https://app.woto.be/listings/opel/zafira-tourer/a26ca806-3acf-47f7-9cb5-e9b608692489",
+      "channel": "ghl_bouton_dessine"
     },
     {
       "slot": "2026-11-04T16:00",
       "garage": "luxury-cars-center-by-alfonso",
-      "listing": "https://app.woto.be/utilitaires/renault/trafic-vip-tva-deductible/570b2d97-a660-4709-9988-cdc81eb4b605"
+      "listing": "https://app.woto.be/utilitaires/renault/trafic-vip-tva-deductible/570b2d97-a660-4709-9988-cdc81eb4b605",
+      "channel": "ghl_bouton_dessine"
     },
     {
       "slot": "2026-11-04T20:00",
       "garage": "garage-des-chaufours",
-      "listing": "https://app.woto.be/listings/bmw/x4/342970fb-119f-436b-b7f2-80f4a702c44f"
+      "listing": "https://app.woto.be/listings/bmw/x4/342970fb-119f-436b-b7f2-80f4a702c44f",
+      "channel": "ghl_bouton_dessine"
     },
     {
       "slot": "2026-11-05T07:30",
       "garage": "kia-la-louvire-motors",
-      "listing": "https://app.woto.be/listings/kia/picanto/04b1272b-6c8e-40db-95bb-69301d05675a"
+      "listing": "https://app.woto.be/listings/kia/picanto/04b1272b-6c8e-40db-95bb-69301d05675a",
+      "channel": "meta_sticker"
     },
     {
       "slot": "2026-11-05T16:00",
       "garage": "wattiez-motors-srl",
-      "listing": "https://app.woto.be/utilitaires/citroen/berlingo/ed2c6075-edb3-4a5c-b126-ca5d85568ca1"
+      "listing": "https://app.woto.be/utilitaires/citroen/berlingo/ed2c6075-edb3-4a5c-b126-ca5d85568ca1",
+      "channel": "meta_sticker"
     },
     {
       "slot": "2026-11-05T20:00",
       "garage": "garage-des-chaufours",
-      "listing": "https://app.woto.be/listings/audi/a3/41a1aa40-79b0-40fe-95d2-1223ea0a48b8"
+      "listing": "https://app.woto.be/listings/audi/a3/41a1aa40-79b0-40fe-95d2-1223ea0a48b8",
+      "channel": "meta_sticker"
     },
     {
       "slot": "2026-11-04T17:58",
