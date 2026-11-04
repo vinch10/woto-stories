@@ -27,16 +27,28 @@ Les 3 stories du lendemain sont préparées et programmées chaque matin, et aff
 - Données reprises telles quelles de la fiche, rien d'inventé.
 - Ne jamais citer AutoScout24 ni un autre site d'annonces.
 
-## Programmation : Meta Business Suite, avec le vrai sticker
-Format validé par Vincent à partir de la Fiat 500 Abarth. GHL n'est plus utilisé pour les stories annonces : son API ne pose pas de sticker. Ne jamais utiliser le bouton « Ajouter un lien » du composer : il donne un lien à balayer, propre à Facebook.
+## Programmation : Meta Business Suite, deux stories séparées par créneau
+Décision de Vincent du 4 novembre 2026 : le sticker Lien passé par Meta est cliquable sur Instagram, mais pas sur Facebook, où il n'est qu'une image morte. Chaque créneau donne donc deux programmations distinctes, avec le même visuel. GHL n'est plus utilisé pour les stories annonces.
 
-Compositeur : `https://business.facebook.com/latest/story_composer/?asset_id=1202971056232237&business_id=1632957036893573`, via Claude in Chrome, « Partager sur » = Woto et woto_app. Prendre une capture avant chaque clic : la fenêtre et la mise en page changent.
+Lien de chaque story : la fiche sur `https://www.woto.be/...`, pas `app.woto.be`.
 
-1. Déposer le JPEG dans le dossier Mac `Woto Stories`, le mettre en attente pour la session, puis l'envoyer depuis `/mnt/user-data/uploads/Woto Stories/` avec `file_upload`. Il n'y a pas de champ fichier avant le clic : surcharger `HTMLInputElement.prototype.click` en JavaScript, cliquer « Ajouter une photo/vidéo », puis trouver `input type=file`.
-2. « Modifier » → « Plus de stickers » → « Lien ».
-3. Lien : `https://www.woto.be/listings/...` (la fiche sur `www.woto.be`, pas `app.woto.be`). Texte personnalisé : `Voir l'annonce →`. Le formulaire remonte après la saisie du lien : reprendre une capture avant de cliquer sur le texte. « Appliquer ».
+Compositeur : `https://business.facebook.com/latest/story_composer/?asset_id=1202971056232237&business_id=1632957036893573`, via Claude in Chrome. Prendre une capture avant chaque clic : la fenêtre et la mise en page changent.
+
+**Commun aux deux stories**
+1. Dans « Partager sur », décocher l'autre réseau : `woto_app` pour la story Facebook, `Woto` pour la story Instagram. Vérifier le compte affiché.
+2. Déposer le JPEG dans le dossier Mac `Woto Stories`, le mettre en attente pour la session, puis l'envoyer depuis `/mnt/user-data/uploads/Woto Stories/` avec `file_upload`. Il n'y a pas de champ fichier avant le clic : surcharger `HTMLInputElement.prototype.click` en JavaScript pour garder le champ dans `window.__fi`, cliquer « Ajouter une photo/vidéo », rattacher ce champ à `document.body`, puis le trouver avec `find`.
+
+**Story Facebook : lien « Voir plus », jamais de sticker**
+3. « Ajouter un lien » → coller la fiche → « Appliquer ». Le bouton devient « Modifier le lien ».
+
+**Story Instagram : vrai sticker, jamais « Ajouter un lien »**
+3. « Modifier » → « Plus de stickers » → « Lien ». Lien : la fiche. Texte personnalisé : `Voir l'annonce →`. Le formulaire remonte après la saisie du lien : reprendre une capture avant de cliquer sur le texte. Le formulaire peut garder d'anciennes valeurs : tout effacer avant de saisir. « Appliquer ».
 4. Glisser le sticker en bas de la photo, sous la voiture, au-dessus du logo. Vérifier au zoom : ni voiture ni logo masqués. « Appliquer ».
-5. « Programmer » : date et heure pour Facebook et pour Instagram. Pour l'heure, cliquer les heures et taper `7`, `16` ou `20`, puis cliquer les minutes et taper `30` ou `00`. Le calendrier peut s'ouvrir au-dessus du champ. Vérifier les quatre valeurs par capture, puis « Programmer ».
-6. Contrôler dans l'agenda Meta que la story apparaît deux fois, avec les icônes Facebook et Instagram, au bon créneau.
+
+**Programmer chacune**
+5. « Programmer » : cliquer les heures et taper `7`, `16` ou `20`, cliquer les minutes et taper `30` ou `00`, puis choisir la date. Le calendrier peut s'ouvrir au-dessus du champ. Vérifier par capture le compte, la date et l'heure, puis « Programmer ». Ne jamais cliquer « Partager maintenant ».
+6. Contrôler dans l'agenda Meta qu'il y a une story Facebook et une story Instagram au bon créneau, et ouvrir chaque aperçu : sticker sur Instagram seulement.
+
+Une carte verte vide peut rester dans l'agenda après la suppression d'une story : aperçu indisponible et aucune date de programmation. Ne rien cliquer dessus.
 
 Si le Mac, Chrome ou Meta ne répond pas, ne pas se rabattre sur GHL : prévenir Vincent.
