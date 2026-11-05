@@ -41,6 +41,24 @@
       "garage": "mons-automobiles",
       "listing": "https://app.woto.be/listings/abarth/595c/23fb3f9b-a906-46f7-9d3c-0a41a6a1f8dc",
       "note": "test via Meta Business Suite : lien à balayer sur Facebook à 17h57, sticker lien « Voir l'annonce → » sur Instagram à 18h16, à la demande de Vincent"
+    },
+    {
+      "slot": "2026-11-06T07:30",
+      "garage": "cardoen-mons",
+      "listing": "https://app.woto.be/listings/citroen/berlingo/ec16c17f-ee65-4a1a-b9c9-577eead49621",
+      "channel": "meta_sticker"
+    },
+    {
+      "slot": "2026-11-06T16:00",
+      "garage": "luxury-cars-center-by-alfonso",
+      "listing": "https://app.woto.be/listings/maserati/ghibli/00ffcef3-dede-41b7-8dd1-b9a13b662463",
+      "channel": "meta_sticker"
+    },
+    {
+      "slot": "2026-11-06T20:00",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/listings/honda/hr-v/7bd788af-0d75-4e2a-9888-49e82a9435ab",
+      "channel": "meta_sticker"
     }
   ]
 }
