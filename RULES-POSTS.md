@@ -25,7 +25,9 @@ Chez <nom du garage>
 
 L'annonce complète vous attend sur l'app et le site Woto.
 ```
-Pas de lien dans le texte : la page a épuisé son quota mensuel de liens (Meta, compte sans Meta One, retour le 1er de chaque mois) et un lien dans le texte bloque la programmation. Ne jamais citer AutoScout24 ni un autre site d'annonces.
+Pas de lien dans le texte : la page a épuisé son quota mensuel de liens dans les publications (Meta, compte sans Meta One, retour le 1er de chaque mois). Même « woto.be » écrit seul est détecté et bloque la programmation. Les liens Woto vont donc dans le premier commentaire, où ils restent cliquables (vérifié le 6 novembre 2026).
+Jamais de tag de page : en tapant le nom du garage, Facebook propose une page (ex. « Luxury Cars Center SRL ») et le retour à la ligne l'accepte. Toujours appuyer sur Échap juste après le nom du garage, puis vérifier dans l'aperçu que la ligne « Chez … » est en noir, sans lien. Le but est de ramener les gens sur Woto, jamais sur une page Facebook.
+Ne jamais citer AutoScout24 ni un autre site d'annonces.
 
 ## Programmation (Meta Business Suite, Claude in Chrome)
 Compositeur : `https://business.facebook.com/latest/composer/?asset_id=1202971056232237&business_id=1632957036893573`
@@ -37,11 +39,12 @@ Compositeur : `https://business.facebook.com/latest/composer/?asset_id=120297105
 
 ## Premier commentaire (posté à la sortie, tâches de 7h35 et 17h05)
 Meta Business Suite ne programme pas de commentaire : il est posté par une tâche planifiée, sur la publication sortie, depuis Statistiques de la publication (Contenu > Publications et reels).
-- Facebook, 7h35 : `@followers` (choisir la suggestion « @followers » dans la liste) puis `La <modèle>, c'est une entrée en matière. Tout le stock de <garage> est à voir sur Woto.`
+- Facebook, 7h35 : `@followers` (choisir la suggestion « @followers » dans la liste) puis :
+  `La <modèle>, c'est une entrée en matière. Voir l'annonce sur Woto : https://www.woto.be/<chemin de la fiche> — Tout le stock de <garage> : https://www.woto.be/professional/<slug>`
 - Facebook, 17h05 : même texte sans `@followers`.
-- Instagram : même texte, sans `@followers`.
+- Liens toujours sur `https://www.woto.be/...` (chemin de la fiche = URL du scan sans `https://app.woto.be/`). Échap après le nom du garage pour éviter un tag de page.
+- Instagram : `La <modèle>, c'est une entrée en matière. L'annonce et tout le stock de <garage> sont sur Woto.` (sans @followers, liens non cliquables sur Instagram).
 - Accord : « La » ou « Le » selon le modèle (la Porsche, la Maserati, le Kia Sportage...).
-- Le lien vers la page garage `https://www.woto.be/professional/<slug>` est à remettre dans le commentaire Facebook dès que le quota de liens le permet (le compositeur affiche « 0 liens restants » quand il est épuisé).
-- Ne poster un commentaire qu'une fois par publication : vérifier qu'il n'existe pas déjà.
+- Ne poster un commentaire qu'une fois par publication : vérifier qu'il n'existe pas déjà. Vérifier après envoi que les liens sont bleus (cliquables).
 
 Si le Mac, Chrome ou Meta ne répond pas : ne rien contourner, prévenir Vincent.
