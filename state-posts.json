@@ -1,8 +1,40 @@
 {
   "posts": [
-    {"slot": "2026-11-07T07:30", "garage": "bcs-franzese", "listing": "https://app.woto.be/listings/maserati/levante/1a80f605-2909-4237-8bb0-e7d0526e21df", "status": "pret_non_programme"},
-    {"slot": "2026-11-07T17:00", "garage": "auto-vedette-fils-srl", "listing": "https://app.woto.be/listings/lancia/ypsilon/b5f89112-8a4e-4072-9163-e6d17efedc06", "status": "pret_non_programme"},
-    {"slot": "2026-11-08T07:30", "garage": "wattiez-motors-srl", "listing": "https://app.woto.be/listings/fiat/punto-evo/2847811e-d5d6-4384-9435-6ccaa651e3be", "status": "pret_non_programme"},
-    {"slot": "2026-11-08T17:00", "garage": "cardoen-mons", "listing": "https://app.woto.be/listings/dacia/sandero/a02be491-6f79-4e5b-8ded-3d9b73e59cc6", "status": "pret_non_programme"}
+    {
+      "slot": "2026-11-06T14:19",
+      "garage": "luxury-cars-center-by-alfonso",
+      "listing": "https://app.woto.be/listings/porsche/911/29174c5d-b83f-422a-ab71-3e051e9159af",
+      "status": "publie_test",
+      "note": "test demandé par Vincent, publié immédiatement sur Facebook et Instagram, commentaire posté",
+      "modele": "Porsche 911 Targa"
+    },
+    {
+      "slot": "2026-11-07T07:30",
+      "garage": "bcs-franzese",
+      "listing": "https://app.woto.be/listings/maserati/levante/1a80f605-2909-4237-8bb0-e7d0526e21df",
+      "status": "programme_fb_ig",
+      "modele": "Maserati Levante"
+    },
+    {
+      "slot": "2026-11-07T17:00",
+      "garage": "auto-vedette-fils-srl",
+      "listing": "https://app.woto.be/listings/lancia/ypsilon/b5f89112-8a4e-4072-9163-e6d17efedc06",
+      "status": "programme_fb_ig",
+      "modele": "Lancia Ypsilon"
+    },
+    {
+      "slot": "2026-11-08T07:30",
+      "garage": "wattiez-motors-srl",
+      "listing": "https://app.woto.be/listings/fiat/punto-evo/2847811e-d5d6-4384-9435-6ccaa651e3be",
+      "status": "programme_fb_ig",
+      "modele": "Fiat Punto Evo"
+    },
+    {
+      "slot": "2026-11-08T17:00",
+      "garage": "cardoen-mons",
+      "listing": "https://app.woto.be/listings/dacia/sandero/a02be491-6f79-4e5b-8ded-3d9b73e59cc6",
+      "status": "programme_fb_ig",
+      "modele": "Dacia Sandero Stepway"
+    }
   ]
 }

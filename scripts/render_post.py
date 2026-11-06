@@ -43,7 +43,9 @@ def wordmark_light(tmp):
 
 
 async def render(a):
-    L = LAYOUT[a.format]
+    L = dict(LAYOUT[a.format])
+    if a.photo_h:
+        L["ph"] = a.photo_h
     with tempfile.TemporaryDirectory() as tmp:
         ph = pathlib.Path(tmp) / "p.jpg"
         crop(a.photo, 1080, L["ph"], a.focus, ph, a.vfocus)
@@ -84,5 +86,6 @@ if __name__ == "__main__":
         ap.add_argument(f"--{n}", required=True)
     ap.add_argument("--format", choices=("fb", "ig"), default="fb")
     ap.add_argument("--focus", type=float, default=0.5)
+    ap.add_argument("--photo-h", type=int, default=0, help="réduire la hauteur de photo si la voiture touche les bords (ig : 790 à 850)")
     ap.add_argument("--vfocus", type=float, default=0.5, help="0 garde le haut de la photo, 1 garde le bas")
     asyncio.run(render(ap.parse_args()))
