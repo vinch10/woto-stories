@@ -59,6 +59,24 @@
       "garage": "mons-automobiles",
       "listing": "https://app.woto.be/listings/honda/hr-v/7bd788af-0d75-4e2a-9888-49e82a9435ab",
       "channel": "meta_sticker"
+    },
+    {
+      "slot": "2026-11-07T07:30",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://app.woto.be/listings/kia/xceed/87c1e79b-9993-4bd6-b94d-7118fdf90bb4",
+      "channel": "meta_sticker"
+    },
+    {
+      "slot": "2026-11-07T16:00",
+      "garage": "cardoen-mons",
+      "listing": "https://app.woto.be/listings/kia/sportage/f954aa9c-234e-4ca1-96a2-c5c9039f8ac5",
+      "channel": "meta_sticker"
+    },
+    {
+      "slot": "2026-11-07T20:00",
+      "garage": "luxury-cars-center-by-alfonso",
+      "listing": "https://app.woto.be/listings/fiat/500/467dabdb-a7c7-4412-9c93-8f7ee92a233f",
+      "channel": "meta_sticker"
     }
   ]
 }
