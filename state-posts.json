@@ -1,0 +1,8 @@
+{
+  "posts": [
+    {"slot": "2026-11-07T07:30", "garage": "bcs-franzese", "listing": "https://app.woto.be/listings/maserati/levante/1a80f605-2909-4237-8bb0-e7d0526e21df", "status": "pret_non_programme"},
+    {"slot": "2026-11-07T17:00", "garage": "auto-vedette-fils-srl", "listing": "https://app.woto.be/listings/lancia/ypsilon/b5f89112-8a4e-4072-9163-e6d17efedc06", "status": "pret_non_programme"},
+    {"slot": "2026-11-08T07:30", "garage": "wattiez-motors-srl", "listing": "https://app.woto.be/listings/fiat/punto-evo/2847811e-d5d6-4384-9435-6ccaa651e3be", "status": "pret_non_programme"},
+    {"slot": "2026-11-08T17:00", "garage": "cardoen-mons", "listing": "https://app.woto.be/listings/dacia/sandero/a02be491-6f79-4e5b-8ded-3d9b73e59cc6", "status": "pret_non_programme"}
+  ]
+}
