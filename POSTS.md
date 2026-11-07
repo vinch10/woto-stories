@@ -17,9 +17,7 @@ Facebook 1080 × 1080, Instagram 1080 × 1350. Premier commentaire posté à 7h3
 | <img src="posts/2026-11-08/woto-fiat-punto-evo-7h30-fb.jpg" width="220"> | <img src="posts/2026-11-08/woto-dacia-sandero-stepway-17h-fb.jpg" width="220"> |
 | Fiat Punto Evo, Wattiez Motors | Dacia Sandero Stepway, Cardoen Mons |
 
-## Lundi 9 novembre — ⚠️ PAS ENCORE PROGRAMMÉ
-
-Visuels prêts, mais la programmation est bloquée : l'accès au dossier Mac `Woto Stories` attend ton approbation sur l'ordinateur.
+## Lundi 9 novembre
 
 | 7h30 | 17h |
 |---|---|

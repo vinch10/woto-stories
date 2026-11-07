@@ -41,17 +41,17 @@
       "slot": "2026-11-09T07:30",
       "garage": "grs-auto-srl",
       "listing": "https://app.woto.be/listings/alfa-romeo/giulia/30b18d73-801e-4e39-8f77-730b762f3946",
-      "status": "non_programme_bloque",
+      "status": "programme_fb_ig",
       "modele": "Alfa Romeo Giulia",
-      "note": "visuels prêts ; programmation bloquée le 7/11 : accès au dossier Mac Woto Stories en attente d'approbation"
+      "note": "programmé à la main le 7/11 vers 11h45 (tâche bloquée par l'accès au dossier Mac)"
     },
     {
       "slot": "2026-11-09T17:00",
       "garage": "salaz-motors",
       "listing": "https://app.woto.be/listings/audi/rs-q3/6f74472a-582e-4b6d-b286-5b0829dee00a",
-      "status": "non_programme_bloque",
+      "status": "programme_fb_ig",
       "modele": "Audi RS Q3",
-      "note": "visuels prêts ; programmation bloquée le 7/11 : accès au dossier Mac Woto Stories en attente d'approbation"
+      "note": "programmé à la main le 7/11 vers 11h45 (tâche bloquée par l'accès au dossier Mac)"
     }
   ]
 }
