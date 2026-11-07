@@ -77,6 +77,24 @@
       "garage": "luxury-cars-center-by-alfonso",
       "listing": "https://app.woto.be/listings/fiat/500/467dabdb-a7c7-4412-9c93-8f7ee92a233f",
       "channel": "meta_sticker"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "bcs-franzese",
+      "listing": "https://app.woto.be/listings/mercedes-benz/a-45-amg/c2cd5ab4-a5e3-41cb-828c-3c216c319e82",
+      "slot": "2026-11-08T07:30"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "grs-auto-srl",
+      "listing": "https://app.woto.be/listings/bmw/318/788f0878-d2e7-4cb3-aef8-c56f7237fbea",
+      "slot": "2026-11-08T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "auto-vedette-fils-srl",
+      "listing": "https://app.woto.be/listings/volkswagen/golf-sportsvan/fdb3f9d3-8f7d-4d4d-b405-d01e721f2f07",
+      "slot": "2026-11-08T20:00"
     }
   ]
 }
