@@ -26,7 +26,7 @@ Chez <nom du garage>
 L'annonce complète vous attend sur l'app et le site Woto.
 ```
 Pas de lien dans le texte : la page a épuisé son quota mensuel de liens dans les publications (Meta, compte sans Meta One, retour le 1er de chaque mois). Même « woto.be » écrit seul est détecté et bloque la programmation. Les liens Woto vont donc dans le premier commentaire, où ils restent cliquables (vérifié le 6 novembre 2026).
-Jamais de tag de page : en tapant le nom du garage, Facebook propose une page (ex. « Luxury Cars Center SRL ») et le retour à la ligne l'accepte. Toujours appuyer sur Échap juste après le nom du garage, puis vérifier dans l'aperçu que la ligne « Chez … » est en noir, sans lien. Le but est de ramener les gens sur Woto, jamais sur une page Facebook.
+Jamais de tag de page : en tapant le nom du garage, Facebook propose une page (ex. « Luxury Cars Center SRL ») et le retour à la ligne l'accepte. Toujours appuyer sur Échap juste après le nom du garage, puis vérifier dans l'aperçu que la ligne « Chez … » est en noir, sans lien. Attention : l'aperçu de l'agenda peut masquer un tag (vu le 7 novembre : « BCS Franzese » est sorti en « BCS Franzese Automobile 🔥 »). Après programmation, rouvrir la publication Facebook avec « Modifier la publication » et vérifier que le texte du champ est exactement celui tapé. Le but est de ramener les gens sur Woto, jamais sur une page Facebook.
 Ne jamais citer AutoScout24 ni un autre site d'annonces.
 
 ## Programmation (Meta Business Suite, Claude in Chrome)
