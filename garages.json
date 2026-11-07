@@ -34,5 +34,29 @@
     "page": "https://app.woto.be/professional/cardoen-mons",
     "logo": "assets/logos/cardoen.png",
     "logo_box": "272x170"
+  },
+  "salaz-motors": {
+    "name": "Salaz Motors",
+    "page": "https://app.woto.be/professional/salaz-motors",
+    "logo": "assets/logos/salaz.png",
+    "logo_box": "960x530"
+  },
+  "grs-auto-srl": {
+    "name": "Grs Auto",
+    "page": "https://app.woto.be/professional/grs-auto-srl",
+    "logo": "assets/logos/grs-auto.png",
+    "logo_box": "630x225"
+  },
+  "bcs-franzese": {
+    "name": "BCS Franzese",
+    "page": "https://app.woto.be/professional/bcs-franzese",
+    "logo": "assets/logos/bcs-franzese.png",
+    "logo_box": "840x350"
+  },
+  "auto-vedette-fils-srl": {
+    "name": "Auto Vedette & Fils",
+    "page": "https://app.woto.be/professional/auto-vedette-fils-srl",
+    "logo": "assets/logos/auto-vedette.png",
+    "logo_box": "473x46"
   }
 }
