@@ -54,6 +54,20 @@
       "status": "programme_fb_ig",
       "modele": "Audi RS Q3",
       "note": "programmé à la main le 7/11 vers 11h45 (tâche bloquée par l'accès au dossier Mac)"
+    },
+    {
+      "slot": "2026-11-10T07:30",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://app.woto.be/listings/kia/sportage/5fe8adce-b136-4bf6-a4ef-95f3cf9bd392",
+      "status": "programme_fb_ig",
+      "modele": "Kia Sportage"
+    },
+    {
+      "slot": "2026-11-10T17:00",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/listings/mercedes-benz/glc-250/3432b590-762f-40ad-b20a-313cf8d1766f",
+      "status": "programme_fb_ig",
+      "modele": "Mercedes-Benz GLC 250 d"
     }
   ]
 }
