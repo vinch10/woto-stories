@@ -70,6 +70,20 @@
       "listing": "https://app.woto.be/listings/mercedes-benz/glc-250/3432b590-762f-40ad-b20a-313cf8d1766f",
       "status": "programme_fb_ig",
       "modele": "Mercedes-Benz GLC 250 d"
+    },
+    {
+      "slot": "2026-11-11T07:30",
+      "garage": "garage-des-chaufours",
+      "listing": "https://app.woto.be/listings/mercedes-benz/a-35-amg/a3db0810-c0b2-42cf-b3dd-730d1b2ad6d5",
+      "status": "programme_fb_ig",
+      "modele": "Mercedes-AMG A 35"
+    },
+    {
+      "slot": "2026-11-11T17:00",
+      "garage": "luxury-cars-center-by-alfonso",
+      "listing": "https://app.woto.be/listings/audi/rs4/a4aa6e1d-43a8-4bfb-9f49-211f91d5f814",
+      "status": "programme_fb_ig",
+      "modele": "Audi RS4 B5 ABT"
     }
   ]
 }
