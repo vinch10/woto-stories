@@ -113,6 +113,24 @@
       "garage": "garage-des-chaufours",
       "listing": "https://app.woto.be/listings/volkswagen/tiguan/0e6d5348-ecd0-4356-8c5e-e269d8cf2e24",
       "slot": "2026-11-09T20:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://app.woto.be/listings/kia/picanto/5d879e32-9510-40d1-9b61-e687c2689ca4",
+      "slot": "2026-11-10T07:30"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/listings/bmw/740/c69f132e-0fe5-4d71-938e-9d277d94219f",
+      "slot": "2026-11-10T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "luxury-cars-center-by-alfonso",
+      "listing": "https://app.woto.be/listings/fiat/panda/695a67ca-88cd-42a5-b669-efbc70783ca8",
+      "slot": "2026-11-10T20:00"
     }
   ]
 }
