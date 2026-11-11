@@ -38,9 +38,16 @@ Compositeur : `https://business.facebook.com/latest/story_composer/?asset_id=120
 2. « Modifier » → « Plus de stickers » → « Lien ».
 3. Lien : la fiche sur `https://www.woto.be/...`, pas `app.woto.be`. Texte personnalisé : `Voir l'annonce →`. Le formulaire remonte après la saisie du lien, donc saisir le texte d'abord, puis le lien. Le formulaire peut garder d'anciennes valeurs : tout effacer avant de saisir. « Appliquer ».
 4. Cliquer une fois sur le sticker pour le sélectionner, puis le glisser en bas de la photo, sous la voiture, au-dessus du logo. Si le formulaire se rouvre, « Appliquer ». Vérifier au zoom : ni voiture ni logo masqués. « Appliquer ».
-5. « Programmer » : pour Facebook et pour Instagram, cliquer les heures et taper `7`, `16` ou `20`, cliquer les minutes et taper `30` ou `00`, puis choisir la date. Le calendrier peut s'ouvrir au-dessus du champ. Vérifier par capture les quatre valeurs, puis « Programmer ». Ne jamais cliquer « Partager maintenant ».
+5. « Programmer » : pour Facebook et pour Instagram, cliquer les heures et taper `7`, `16` ou `20`, cliquer les minutes et taper `30` ou `00`, puis choisir la date. Le calendrier peut s'ouvrir au-dessus du champ. Vérifier par capture les quatre valeurs, puis « Programmer ». Ne jamais cliquer « Partager maintenant », sauf pour le rattrapage ci-dessous.
 6. Contrôler dans l'agenda Meta que la story apparaît deux fois, avec les icônes Facebook et Instagram, au bon créneau, et ouvrir l'aperçu pour voir le sticker.
 
 Des cartes vertes vides peuvent rester dans l'agenda après la suppression d'une story : aperçu indisponible et aucune date de programmation. Ne rien cliquer dessus.
 
 Si le Mac, Chrome ou Meta ne répond pas, ne pas se rabattre sur GHL : prévenir Vincent.
+
+## Rattrapage d'un créneau manqué
+Décision de Vincent du 11 novembre 2026 : toujours 3 stories par jour. Si un créneau du jour n'a pas pu être programmé (Mac injoignable, dossier introuvable, Chrome fermé, Meta déconnecté…), dès que la connexion revient :
+- Avant midi, heure de Bruxelles : publier tout de suite la story manquée, avec « Partager maintenant ». C'est la seule exception à l'interdiction de « Partager maintenant ». Toutes les autres règles s'appliquent : choix du garage, anti-doublon (`state.json` et `state-posts.json`), visuel contrôlé, sticker Lien « Voir l'annonce → ».
+- Après midi : pas de rattrapage du créneau du matin.
+- Les créneaux encore à venir (16h, 20h) sont programmés normalement s'ils sont vides.
+- Inscrire la story dans `state.json` avec l'heure réelle de publication, et le signaler dans le résumé.

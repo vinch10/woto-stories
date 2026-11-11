@@ -134,6 +134,13 @@
     },
     {
       "channel": "meta_sticker",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://app.woto.be/listings/kia/stonic/2e235ba9-8e22-452a-b15e-187e8c62760b",
+      "slot": "2026-11-11T10:20",
+      "note": "rattrapage du créneau 7h30 manqué, publié tout de suite à la demande de Vincent"
+    },
+    {
+      "channel": "meta_sticker",
       "garage": "mons-automobiles",
       "listing": "https://app.woto.be/listings/audi/a3/05f04e84-9298-48e6-96a0-ebf39198b713",
       "slot": "2026-11-11T16:00"
