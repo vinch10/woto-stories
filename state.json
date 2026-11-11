@@ -131,6 +131,24 @@
       "garage": "luxury-cars-center-by-alfonso",
       "listing": "https://app.woto.be/listings/fiat/panda/695a67ca-88cd-42a5-b669-efbc70783ca8",
       "slot": "2026-11-10T20:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "cardoen-mons",
+      "listing": "https://app.woto.be/listings/volkswagen/t-cross/56b68bee-bdbe-4b9e-b558-c7c8bf31bc7d",
+      "slot": "2026-11-12T07:30"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "bcs-franzese",
+      "listing": "https://app.woto.be/listings/bmw/m4/3381a3db-6fe8-4d74-bdca-c7f81c107641",
+      "slot": "2026-11-12T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "luxury-cars-center-by-alfonso",
+      "listing": "https://app.woto.be/listings/mercedes-benz/cla/bb3390cf-6096-46de-b434-5356953d394a",
+      "slot": "2026-11-12T20:00"
     }
   ]
 }
