@@ -9,7 +9,7 @@ Les 3 stories du lendemain sont préparées et programmées chaque matin, et aff
 - Comparer les vendeurs du scan à `garages.json` : tout vendeur absent est un nouveau garage.
 - Un garage différent à chaque passage. Un garage ne repasse pas tant que tous les autres garages connus ne sont pas passés. Ordre aléatoire à chaque tour.
 - Garage nouveau repéré sur le site : l'ajouter à `garages.json`, il passe en priorité.
-- Voiture au hasard dans le stock du garage. Règle absolue de Vincent : ne jamais publier deux fois le même véhicule. Une voiture présente dans `state.json` ne repasse jamais, sans exception ni délai. Avant de programmer, vérifier l'URL de la fiche dans `state.json` et le calendrier Meta.
+- Voiture au hasard dans le stock du garage. Règle absolue de Vincent : ne jamais publier deux fois le même véhicule. Une voiture présente dans `state.json` ne repasse jamais, sans exception ni délai. Avant de programmer, vérifier l'URL de la fiche dans `state.json`, dans `state-posts.json` (publications fil, y compris les visuels prêts mais pas encore programmés) et dans le calendrier Meta. Une voiture déjà prise par le projet posts ne passe pas en story.
 - Un garage qui n'a plus que des voitures déjà publiées est sauté, jusqu'à ce qu'il en ajoute une nouvelle. Si plus aucune voiture nouvelle n'est disponible, laisser le créneau vide et le signaler.
 - Écarter une fiche si : voiture vendue ou fiche indisponible, prix ou kilométrage absent, écart de kilométrage sans explication, aucune photo correcte.
 - Kilométrage : si la description donne un chiffre certifié Car-Pass, afficher ce chiffre, même s'il diffère du champ arrondi de la fiche. Sinon, afficher le champ.

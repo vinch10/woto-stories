@@ -24,4 +24,4 @@ Visuels prêts, mais la programmation est bloquée : le dossier Mac `Woto Storie
 | 7h30 | 17h |
 |---|---|
 | <img src="posts/2026-11-12/woto-mercedes-gla-7h30-fb.jpg" width="220"> | <img src="posts/2026-11-12/woto-vw-t-cross-17h-fb.jpg" width="220"> |
-| Mercedes-Benz GLA 180 d, Salaz Motors (31 490 €) | Volkswagen T-Cross, Cardoen Mons (17 999 €) |
+| Mercedes-Benz GLA 180 d, Salaz Motors (31 490 €) | ~~Volkswagen T-Cross, Cardoen Mons~~ **annulé** : déjà en story le 12/11 à 7h30. Autre voiture à choisir. |

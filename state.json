@@ -13,6 +13,12 @@
       "channel": "ghl_bouton_dessine"
     },
     {
+      "slot": "2026-11-04T17:58",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/listings/abarth/595c/23fb3f9b-a906-46f7-9d3c-0a41a6a1f8dc",
+      "note": "test via Meta Business Suite : lien à balayer sur Facebook à 17h57, sticker lien « Voir l'annonce → » sur Instagram à 18h16, à la demande de Vincent"
+    },
+    {
       "slot": "2026-11-04T20:00",
       "garage": "garage-des-chaufours",
       "listing": "https://app.woto.be/listings/bmw/x4/342970fb-119f-436b-b7f2-80f4a702c44f",
@@ -35,12 +41,6 @@
       "garage": "garage-des-chaufours",
       "listing": "https://app.woto.be/listings/audi/a3/41a1aa40-79b0-40fe-95d2-1223ea0a48b8",
       "channel": "meta_sticker"
-    },
-    {
-      "slot": "2026-11-04T17:58",
-      "garage": "mons-automobiles",
-      "listing": "https://app.woto.be/listings/abarth/595c/23fb3f9b-a906-46f7-9d3c-0a41a6a1f8dc",
-      "note": "test via Meta Business Suite : lien à balayer sur Facebook à 17h57, sticker lien « Voir l'annonce → » sur Instagram à 18h16, à la demande de Vincent"
     },
     {
       "slot": "2026-11-06T07:30",
@@ -131,6 +131,18 @@
       "garage": "luxury-cars-center-by-alfonso",
       "listing": "https://app.woto.be/listings/fiat/panda/695a67ca-88cd-42a5-b669-efbc70783ca8",
       "slot": "2026-11-10T20:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/listings/audi/a3/05f04e84-9298-48e6-96a0-ebf39198b713",
+      "slot": "2026-11-11T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "grs-auto-srl",
+      "listing": "https://app.woto.be/listings/citroen/c5-aircross/09c935ac-bde6-4c43-9541-c4941f51b194",
+      "slot": "2026-11-11T20:00"
     },
     {
       "channel": "meta_sticker",

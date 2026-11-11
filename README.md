@@ -4,7 +4,12 @@ Mis à jour chaque matin. Heures de Bruxelles. Sur chaque story, Facebook et Ins
 
 ## Mercredi 11 novembre
 
-**⚠️ Aucune story aujourd'hui** : les visuels préparés hier n'avaient pas pu être programmés (dossier Mac introuvable). Ils passent demain, mêmes voitures.
+7h30 : pas de story (les visuels d'hier n'avaient pas pu être programmés, ils passent demain).
+
+| 16h | 20h |
+|---|---|
+| <img src="stories/2026-11-11/woto-audi-a3-16h.jpg" width="220"> | <img src="stories/2026-11-11/woto-c5-aircross-20h.jpg" width="220"> |
+| Audi A3, Mons Automobiles | Citroën C5 Aircross, Grs Auto |
 
 ## Jeudi 12 novembre
 

@@ -101,9 +101,9 @@
       "slot": "2026-11-12T17:00",
       "garage": "cardoen-mons",
       "listing": "https://app.woto.be/listings/volkswagen/t-cross/56b68bee-bdbe-4b9e-b558-c7c8bf31bc7d",
-      "status": "visuels_prets_non_programme",
+      "status": "annule_doublon_story",
       "modele": "Volkswagen T-Cross",
-      "note": "dossier Mac Woto Stories introuvable le 10/11, programmation bloquée"
+      "note": "Annulé le 11/11 : ce T-Cross passe en story le 12/11 à 7h30 (state.json). Ne pas programmer ce visuel. Créneau 12/11 17h à remplir avec une autre voiture."
     }
   ]
 }
