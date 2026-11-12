@@ -94,10 +94,11 @@
       "slot": "2026-11-12T07:30",
       "garage": "salaz-motors",
       "listing": "https://app.woto.be/listings/mercedes-benz/gla-180/614ce74d-84b5-4f6f-a1b6-ae30be8dcb81",
-      "status": "visuels_prets_non_programme",
+      "status": "publie_fb_ig_rattrapage",
       "modele": "Mercedes-Benz GLA 180 d",
-      "note": "dossier Mac introuvable le 10/11 ; le 11/11 toujours pas programmé dans Meta (agenda vérifié), à programmer à la main",
-      "comment": "erreur : aucune publication GLA 180 d sortie à 7h30 le 12/11 (ni publiée ni programmée dans Meta, vérifié 7h36 et 7h38), commentaire non posté"
+      "note": "dossier Mac introuvable le 10/11 ; le 11/11 toujours pas programmé dans Meta (agenda vérifié), à programmer à la main ; rattrapé le 12/11 : publié à la main par Claude à 7h42/7h44 à la demande de Vincent, visuels envoyés depuis /mnt/user-data/outputs/ sans le dossier Mac",
+      "comment": "ok",
+      "published_at": "2026-11-12T07:42 (fb) / 07:44 (ig)"
     },
     {
       "slot": "2026-11-12T17:00",

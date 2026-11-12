@@ -32,10 +32,15 @@ Ne jamais citer AutoScout24 ni un autre site d'annonces.
 ## Programmation (Meta Business Suite, Claude in Chrome)
 Compositeur : `https://business.facebook.com/latest/composer/?asset_id=1202971056232237&business_id=1632957036893573`
 1. Deux publications séparées par créneau : une avec « Publier dans » = Woto seul (visuel fb), une avec woto_app seul (visuel ig).
-2. Visuel : déposer le JPEG dans le dossier Mac `Woto Stories` (device_commit_files), le récupérer (device_stage_files), puis `file_upload` depuis `/mnt/user-data/uploads/Woto Stories/`, avec la même astuce `HTMLInputElement.prototype.click` que le projet 1.
+2. Visuel : copier le JPEG dans `/mnt/user-data/outputs/` et le passer directement à `file_upload` depuis ce chemin (vérifié le 12 novembre 2026). Plus besoin du dossier Mac `Woto Stories` : c'est lui qui a bloqué le créneau du 12/11 7h30. Astuce `HTMLInputElement.prototype.click` : surcharger pour garder le champ dans `window.__fi`, cliquer « Ajouter une photo/vidéo », rattacher le champ à `document.body`, le trouver avec `find`.
 3. Facebook : désactiver « Partager dans la story Facebook » et confirmer « Ne pas partager cette publication ».
 4. « Définir la date et l'heure » : heures, minutes, puis date. Vérifier par capture date et heure, puis « Programmer ». Fenêtre boost : « Peut-être plus tard ». Ne jamais cliquer « Publier » pour un créneau futur, ne jamais booster.
 5. Vérifier dans l'agenda que chaque créneau a ses deux publications (icônes Facebook et Instagram).
+
+## Jamais de créneau vide (règle de Vincent du 12 novembre 2026)
+- Chaque passage de programmation remplit tous les créneaux vides d'aujourd'hui (pas encore passés), de demain et du surlendemain, pas seulement le surlendemain.
+- Créneau du jour manqué (visuel prêt mais rien dans Meta) : la tâche du premier commentaire le publie tout de suite (« Publier », Woto seul puis woto_app seul, story Facebook désactivée, « Peut-être plus tard » au boost), puis poste le commentaire. Si aucun visuel n'est prêt, elle prévient Vincent.
+- Ne jamais laisser à Vincent une action « à faire à la main ».
 
 ## Premier commentaire (posté à la sortie, tâches de 7h35 et 17h05)
 Meta Business Suite ne programme pas de commentaire : il est posté par une tâche planifiée, sur la publication sortie, depuis Statistiques de la publication (Contenu > Publications et reels).
