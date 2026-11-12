@@ -168,6 +168,24 @@
       "garage": "luxury-cars-center-by-alfonso",
       "listing": "https://app.woto.be/listings/mercedes-benz/cla/bb3390cf-6096-46de-b434-5356953d394a",
       "slot": "2026-11-12T20:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "salaz-motors",
+      "listing": "https://app.woto.be/listings/volkswagen/taigo/6ac3f821-b5f8-45b0-bcdc-89cbd36b3747",
+      "slot": "2026-11-13T07:30"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "auto-vedette-fils-srl",
+      "listing": "https://app.woto.be/listings/kia/sorento/d71000d7-5c17-4859-ae1b-8ad49f3f900f",
+      "slot": "2026-11-13T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "wattiez-motors-srl",
+      "listing": "https://app.woto.be/listings/opel/astra/45df75ab-d0b8-462e-99a7-4ba212600178",
+      "slot": "2026-11-13T20:00"
     }
   ]
 }
