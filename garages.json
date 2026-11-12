@@ -58,5 +58,11 @@
     "page": "https://app.woto.be/professional/auto-vedette-fils-srl",
     "logo": "assets/logos/auto-vedette.png",
     "logo_box": "473x46"
+  },
+  "garage-priv-wavre": {
+    "name": "Garage Privé Wavre",
+    "page": "https://app.woto.be/professional/garage-priv-wavre",
+    "logo": "assets/logos/garage-prive.png",
+    "logo_box": "888x250"
   }
 }

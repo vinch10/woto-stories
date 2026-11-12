@@ -109,6 +109,14 @@
       "note": "Annulé le 11/11 : ce T-Cross passe en story le 12/11 à 7h30 (state.json). Ne pas programmer ce visuel. Créneau 12/11 17h à remplir avec une autre voiture."
     },
     {
+      "slot": "2026-11-12T17:00",
+      "garage": "garage-priv-wavre",
+      "listing": "https://app.woto.be/listings/mclaren/artura/bd59e611-86d4-42d8-9b86-cfb944d24a94",
+      "status": "programme_fb_ig",
+      "modele": "McLaren Artura",
+      "note": "remplace le T-Cross annulé ; nouveau garage (logo recomposé depuis le bandeau de leurs photos)"
+    },
+    {
       "slot": "2026-11-13T07:30",
       "garage": "garage-des-chaufours",
       "listing": "https://app.woto.be/listings/porsche/panamera/f7d24326-cb11-45b6-bef1-2c87713d2b7f",
@@ -121,6 +129,20 @@
       "listing": "https://app.woto.be/listings/audi/a7/db555a4c-8616-4c57-943e-780e6489ebbd",
       "status": "programme_fb_ig",
       "modele": "Audi A7 45 TFSI quattro"
+    },
+    {
+      "slot": "2026-11-14T07:30",
+      "garage": "wattiez-motors-srl",
+      "listing": "https://app.woto.be/listings/audi/a4/499f07ed-5b64-4306-b229-68aaf2b16ed7",
+      "status": "programme_fb_ig",
+      "modele": "Audi A4 1.8 TFSI"
+    },
+    {
+      "slot": "2026-11-14T17:00",
+      "garage": "auto-vedette-fils-srl",
+      "listing": "https://app.woto.be/listings/fiat/500l/1a3dff6e-cb1c-47f9-8ef6-87261d97fe32",
+      "status": "programme_fb_ig",
+      "modele": "Fiat 500L 1.3 Multijet Sport"
     }
   ]
 }
