@@ -186,6 +186,24 @@
       "garage": "wattiez-motors-srl",
       "listing": "https://app.woto.be/listings/opel/astra/45df75ab-d0b8-462e-99a7-4ba212600178",
       "slot": "2026-11-13T20:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "garage-priv-wavre",
+      "listing": "https://app.woto.be/listings/mercedes-benz/glc-200/9a05ba95-3412-4e3c-b691-12515ae97788",
+      "slot": "2026-11-14T07:30"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "garage-des-chaufours",
+      "listing": "https://app.woto.be/listings/seat/arosa/2ef9cd6e-7a08-4ada-a05b-8b6651665f64",
+      "slot": "2026-11-14T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/listings/bmw/520/94306ed4-8100-434d-946b-8aa6acb1fa6c",
+      "slot": "2026-11-14T20:00"
     }
   ]
 }
