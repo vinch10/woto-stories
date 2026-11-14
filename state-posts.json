@@ -139,8 +139,8 @@
       "listing": "https://app.woto.be/listings/audi/a4/499f07ed-5b64-4306-b229-68aaf2b16ed7",
       "status": "programme_fb_ig",
       "modele": "Audi A4 1.8 TFSI",
-    "comment": "ok"
-  },
+      "comment": "ok"
+    },
     {
       "slot": "2026-11-14T17:00",
       "garage": "auto-vedette-fils-srl",
@@ -161,6 +161,21 @@
       "listing": "https://app.woto.be/listings/land-rover/range-rover-evoque/a6b25dee-88f0-488e-a47b-ec67d66cbf13",
       "status": "programme_fb_ig",
       "modele": "Range Rover Evoque 2.0 TD4 4WD"
+    },
+    {
+      "slot": "2026-11-16T07:30",
+      "garage": "dsh-cars",
+      "listing": "https://app.woto.be/listings/bmw/m2/ab5dee60-35fc-47a6-a4de-f44eb4b2e32d",
+      "status": "programme_fb_ig",
+      "modele": "BMW M2 Coupé G87",
+      "note": "nouveau garage (priorité)"
+    },
+    {
+      "slot": "2026-11-16T17:00",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://app.woto.be/listings/kia/ev4/e90dfb8b-d855-4400-b5c1-e5d5768cedb0",
+      "status": "programme_fb_ig",
+      "modele": "Kia EV4 81.4 kWh"
     }
   ]
 }
