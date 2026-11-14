@@ -64,5 +64,11 @@
     "page": "https://app.woto.be/professional/garage-priv-wavre",
     "logo": "assets/logos/garage-prive.png",
     "logo_box": "888x250"
+  },
+  "dsh-cars": {
+    "name": "DSH Cars",
+    "page": "https://app.woto.be/professional/dsh-cars",
+    "logo": "assets/logos/dsh-cars.png",
+    "logo_box": "265x170"
   }
 }

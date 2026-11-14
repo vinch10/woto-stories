@@ -204,6 +204,24 @@
       "garage": "mons-automobiles",
       "listing": "https://app.woto.be/listings/bmw/520/94306ed4-8100-434d-946b-8aa6acb1fa6c",
       "slot": "2026-11-14T20:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "dsh-cars",
+      "listing": "https://app.woto.be/listings/mercedes-benz/cla-180/2c63e27d-2229-44c8-81c8-bacccfbdf34b",
+      "slot": "2026-11-15T07:30"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "salaz-motors",
+      "listing": "https://app.woto.be/listings/kia/sportage/883ca24b-5de0-48db-81a2-fbbfda9eba83",
+      "slot": "2026-11-15T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "auto-vedette-fils-srl",
+      "listing": "https://app.woto.be/listings/audi/a8/f95f44b3-4431-4198-8bc6-4ebbe06f0c4d",
+      "slot": "2026-11-15T20:00"
     }
   ]
 }
