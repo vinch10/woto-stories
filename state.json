@@ -222,6 +222,25 @@
       "garage": "auto-vedette-fils-srl",
       "listing": "https://app.woto.be/listings/audi/a8/f95f44b3-4431-4198-8bc6-4ebbe06f0c4d",
       "slot": "2026-11-15T20:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "ppauto",
+      "listing": "https://app.woto.be/listings/bmw/116/898876da-04e4-4f75-8f08-3c8e25b9ce4d",
+      "slot": "2026-11-16T07:30",
+      "note": "doublon : la même BMW 116d a été prise en parallèle par le projet posts (publication fil du 17/11 7h30, commit 1fe9ef6 à 10h59). Story non supprimée, décision laissée à Vincent."
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "luxury-cars-center-by-alfonso",
+      "listing": "https://app.woto.be/listings/audi/a3/84fa674e-d5f0-4ab7-9d75-9f77bfd98fcb",
+      "slot": "2026-11-16T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://app.woto.be/listings/kia/sportage/5068c296-f4cf-4750-bbd7-f57ff2fe43d1",
+      "slot": "2026-11-16T20:00"
     }
   ]
 }

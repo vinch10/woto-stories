@@ -75,6 +75,8 @@
     "name": "PP Auto",
     "page": "https://app.woto.be/professional/ppauto",
     "logo": "assets/logos/ppauto.png",
-    "logo_box": "1060x700"
+    "logo_box": "1060x700",
+    "logo_story": "assets/logos/ppauto-nom.png",
+    "logo_box_story": "520x128"
   }
 }
