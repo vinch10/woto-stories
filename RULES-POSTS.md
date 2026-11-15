@@ -52,4 +52,6 @@ Meta Business Suite ne programme pas de commentaire : il est posté par une tâc
 - Accord : « La » ou « Le » selon le modèle (la Porsche, la Maserati, le Kia Sportage...).
 - Ne poster un commentaire qu'une fois par publication : vérifier qu'il n'existe pas déjà. Vérifier après envoi que les liens sont bleus (cliquables).
 
-Si le Mac, Chrome ou Meta ne répond pas : ne rien contourner, prévenir Vincent.
+- Rattrapage (règle de Vincent du 15 novembre 2026, « comme tous les jours, ne change jamais ») : chaque passage (tâches 7h35, 17h05 et programmation) vérifie aussi les créneaux d'aujourd'hui et d'hier déjà sortis dont l'entrée de state-posts.json n'a pas `"comment": "ok"`, et poste leur commentaire de la même façon (avec `@followers` pour un créneau de 7h30), jusqu'au bout, sans demander. Vu le 15/11 : Mac éteint à 7h35, commentaire de la Panda posté à 10h30 en rattrapage.
+
+Si le Mac, Chrome ou Meta ne répond pas : ne rien contourner, prévenir Vincent ; le passage suivant rattrape.
