@@ -178,6 +178,21 @@
       "listing": "https://app.woto.be/listings/kia/ev4/e90dfb8b-d855-4400-b5c1-e5d5768cedb0",
       "status": "programme_fb_ig",
       "modele": "Kia EV4 81.4 kWh"
+    },
+    {
+      "slot": "2026-11-17T07:30",
+      "garage": "ppauto",
+      "listing": "https://app.woto.be/listings/bmw/116/898876da-04e4-4f75-8f08-3c8e25b9ce4d",
+      "status": "programme_fb_ig",
+      "modele": "BMW 116d",
+      "note": "nouveau garage (priorité) ; logo recadré depuis la bannière de leur page Woto"
+    },
+    {
+      "slot": "2026-11-17T17:00",
+      "garage": "garage-priv-wavre",
+      "listing": "https://app.woto.be/listings/bmw/i8/be979377-0dd0-439c-89a3-2428bbcf3b7e",
+      "status": "programme_fb_ig",
+      "modele": "BMW i8 Roadster"
     }
   ]
 }

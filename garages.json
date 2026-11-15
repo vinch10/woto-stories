@@ -70,5 +70,11 @@
     "page": "https://app.woto.be/professional/dsh-cars",
     "logo": "assets/logos/dsh-cars.png",
     "logo_box": "265x170"
+  },
+  "ppauto": {
+    "name": "PP Auto",
+    "page": "https://app.woto.be/professional/ppauto",
+    "logo": "assets/logos/ppauto.png",
+    "logo_box": "1060x700"
   }
 }
