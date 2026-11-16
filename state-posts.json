@@ -195,6 +195,21 @@
       "listing": "https://app.woto.be/listings/bmw/i8/be979377-0dd0-439c-89a3-2428bbcf3b7e",
       "status": "programme_fb_ig",
       "modele": "BMW i8 Roadster"
+    },
+    {
+      "slot": "2026-11-18T07:30",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/listings/audi/a8/99783d2f-f1ab-4b65-bd82-e66d626cd627",
+      "status": "programme_fb_ig",
+      "modele": "Audi A8 50 TDI quattro"
+    },
+    {
+      "slot": "2026-11-18T17:00",
+      "garage": "salaz-motors",
+      "listing": "https://app.woto.be/listings/audi/q3/1144f710-2fcc-4cc9-a421-34e853e47323",
+      "status": "programme_fb_ig",
+      "modele": "Audi Q3 35 TDI",
+      "note": "SabanAuto Quaregnon (nouveau, prioritaire) écarté ce passage : photos trop serrées pour le gabarit (voiture coupée)"
     }
   ]
 }
