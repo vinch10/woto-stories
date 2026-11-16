@@ -241,6 +241,24 @@
       "garage": "kia-la-louvire-motors",
       "listing": "https://app.woto.be/listings/kia/sportage/5068c296-f4cf-4750-bbd7-f57ff2fe43d1",
       "slot": "2026-11-16T20:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "sabanauto-quaregnon",
+      "listing": "https://app.woto.be/utilitaires/volkswagen/t5-transporter/0102d5d2-bc34-44fe-a016-f5914a9b310d",
+      "slot": "2026-11-17T07:30"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/listings/volkswagen/golf/e5cf1313-cd3d-457c-88f9-93215d0c884f",
+      "slot": "2026-11-17T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "garage-priv-wavre",
+      "listing": "https://app.woto.be/listings/audi/q3/1c8bc33b-5e03-49f8-beb3-0cb757fcd03c",
+      "slot": "2026-11-17T20:00"
     }
   ]
 }

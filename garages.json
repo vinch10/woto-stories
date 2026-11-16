@@ -78,5 +78,11 @@
     "logo_box": "1060x700",
     "logo_story": "assets/logos/ppauto-nom.png",
     "logo_box_story": "520x128"
+  },
+  "sabanauto-quaregnon": {
+    "name": "SabanAuto Quaregnon",
+    "page": "https://app.woto.be/professional/sabanauto-quaregnon",
+    "logo": "assets/logos/sabanauto.png",
+    "logo_box": "520x128"
   }
 }
