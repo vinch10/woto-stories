@@ -259,6 +259,24 @@
       "garage": "garage-priv-wavre",
       "listing": "https://app.woto.be/listings/audi/q3/1c8bc33b-5e03-49f8-beb3-0cb757fcd03c",
       "slot": "2026-11-17T20:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "bcs-franzese",
+      "listing": "https://app.woto.be/listings/audi/rs4/e873c4ef-133b-438d-a458-25e6fc72002e",
+      "slot": "2026-11-18T07:30"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "wattiez-motors-srl",
+      "listing": "https://app.woto.be/listings/ford/kuga/194364ec-4c75-40d8-8a41-6113a42a995b",
+      "slot": "2026-11-18T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "grs-auto-srl",
+      "listing": "https://app.woto.be/listings/mercedes-benz/c-200/1b2674ae-6889-47af-8ce5-fa317f7e60d2",
+      "slot": "2026-11-18T20:00"
     }
   ]
 }
