@@ -212,6 +212,21 @@
       "status": "programme_fb_ig",
       "modele": "Audi Q3 35 TDI",
       "note": "SabanAuto Quaregnon (nouveau, prioritaire) écarté ce passage : photos trop serrées pour le gabarit (voiture coupée)"
+    },
+    {
+      "slot": "2026-11-19T07:30",
+      "garage": "dsh-cars",
+      "listing": "https://app.woto.be/listings/bmw/x4/95bc1789-827a-4f70-a9e7-961b46b84910",
+      "status": "programme_fb_ig",
+      "modele": "BMW X4 xDrive20d M",
+      "note": "nouveau tour (tirage aléatoire) ; SabanAuto Quaregnon écarté à nouveau : photos serrées, voiture coupée ; Cardoen Mons sans voiture disponible"
+    },
+    {
+      "slot": "2026-11-19T17:00",
+      "garage": "garage-priv-wavre",
+      "listing": "https://app.woto.be/listings/porsche/boxster/3ae0e2f4-2a47-48f1-82d2-2a1c971d616d",
+      "status": "programme_fb_ig",
+      "modele": "Porsche Boxster S Black Edition"
     }
   ]
 }
