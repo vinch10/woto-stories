@@ -277,6 +277,13 @@
       "garage": "grs-auto-srl",
       "listing": "https://app.woto.be/listings/mercedes-benz/c-200/1b2674ae-6889-47af-8ce5-fa317f7e60d2",
       "slot": "2026-11-18T20:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "salaz-motors",
+      "listing": "https://app.woto.be/listings/audi/a5/b001eafd-0834-414d-9191-5106ceae5dda",
+      "slot": "2026-11-19T07:30",
+      "note": "clic sur Programmer envoyé le 18/11 vers 9h35, mais Chrome s'est déconnecté juste après : programmation non confirmée dans l'agenda Meta, à vérifier"
     }
   ]
 }
