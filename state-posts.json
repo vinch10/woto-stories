@@ -229,6 +229,21 @@
       "listing": "https://app.woto.be/listings/porsche/boxster/3ae0e2f4-2a47-48f1-82d2-2a1c971d616d",
       "status": "programme_fb_ig",
       "modele": "Porsche Boxster S Black Edition"
+    },
+    {
+      "slot": "2026-11-20T07:30",
+      "garage": "grs-auto-srl",
+      "listing": "https://app.woto.be/listings/ford/puma/88a34c3a-8540-4391-9ce7-3dba708d1457",
+      "status": "programme_fb_ig",
+      "modele": "Ford Puma 1.0 EcoBoost mHEV",
+      "note": "SabanAuto Quaregnon écarté à nouveau (BMW X3 testée : photos serrées, voiture coupée) ; photo 3 utilisée (vfocus 1)"
+    },
+    {
+      "slot": "2026-11-20T17:00",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://app.woto.be/listings/audi/q5/8ab589cb-30e2-4fc6-9800-a973f37d9bb0",
+      "status": "programme_fb_ig",
+      "modele": "Audi Q5 Sportback 40 TDI quattro"
     }
   ]
 }
