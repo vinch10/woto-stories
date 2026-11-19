@@ -245,6 +245,22 @@
       "listing": "https://app.woto.be/listings/audi/q5/8ab589cb-30e2-4fc6-9800-a973f37d9bb0",
       "status": "programme_fb_ig",
       "modele": "Audi Q5 Sportback 40 TDI quattro"
+    },
+    {
+      "slot": "2026-11-21T07:30",
+      "garage": "ppauto",
+      "listing": "https://app.woto.be/listings/peugeot/4008/17ea31e8-670e-4770-b465-1acc37094e21",
+      "status": "programme_fb_ig",
+      "modele": "Peugeot 4008 1.6 HDi Allure",
+      "note": "tour en cours (tirage aléatoire)"
+    },
+    {
+      "slot": "2026-11-21T17:00",
+      "garage": "salaz-motors",
+      "listing": "https://app.woto.be/listings/bmw/330/36654372-6153-486c-9555-944b756916a8",
+      "status": "programme_fb_ig",
+      "modele": "BMW 330 Berline",
+      "note": "Wattiez Motors écarté ce passage : photos trop serrées (pare-chocs coupé sur Ford Kuga)"
     }
   ]
 }
