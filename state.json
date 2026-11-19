@@ -283,7 +283,38 @@
       "garage": "salaz-motors",
       "listing": "https://app.woto.be/listings/audi/a5/b001eafd-0834-414d-9191-5106ceae5dda",
       "slot": "2026-11-19T07:30",
-      "note": "clic sur Programmer envoyé le 18/11 vers 9h35, mais Chrome s'est déconnecté juste après : programmation non confirmée dans l'agenda Meta, à vérifier"
+      "note": "programmation confirmée dans l'agenda Meta le 19/11 (Actif sur Facebook et Instagram)"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "dsh-cars",
+      "listing": "https://app.woto.be/listings/ford/focus/c2d23834-7506-4d2a-87c9-b3a850c80ad9",
+      "slot": "2026-11-19T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "ppauto",
+      "listing": "https://app.woto.be/listings/renault/twingo/6a12acf9-3302-4c55-86c3-3e729691a230",
+      "slot": "2026-11-19T20:00",
+      "note": "début d'un nouveau tour de garages (tirage aléatoire : PP Auto, Mons Automobiles, Wattiez, BCS Franzese, Grs Auto, Kia, Garage Privé Wavre, SabanAuto, Salaz, Luxury Cars) ; Garage des Chaufours sauté : toutes ses fiches affichent un 2e prix « Pour Professionnels » ; Cardoen Mons et Auto Vedette sans voiture disponible"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/listings/toyota/c-hr/b43b2de3-d84d-4dc0-85af-2d95e62a7ff7",
+      "slot": "2026-11-20T07:30"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "wattiez-motors-srl",
+      "listing": "https://app.woto.be/listings/volkswagen/golf-sportsvan/138b4eb8-3a81-40c4-aa48-432075858361",
+      "slot": "2026-11-20T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "bcs-franzese",
+      "listing": "https://app.woto.be/listings/mercedes-benz/a-45-amg/1cae4cd5-3f94-49a1-9c97-79e0054979ca",
+      "slot": "2026-11-20T20:00"
     }
   ]
 }
