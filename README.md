@@ -2,20 +2,20 @@
 
 Mis à jour chaque matin. Heures de Bruxelles. Sur chaque story, Facebook et Instagram : bouton « Voir l'annonce → ».
 
-## Jeudi 19 novembre
+## Vendredi 20 novembre
 
-7h30 publiée (Audi A5 Sportback, Salaz Motors), confirmée dans l'agenda Meta.
+7h30 publiée (Toyota C-HR, Mons Automobiles), confirmée dans l'agenda Meta.
 
 | 16h | 20h |
 |---|---|
-| <img src="stories/2026-11-19/woto-focus-16h.jpg" width="220"> | <img src="stories/2026-11-19/woto-twingo-20h.jpg" width="220"> |
-| Ford Focus, DSH Cars | Renault Twingo, PP Auto |
+| <img src="stories/2026-11-20/woto-golf-sportsvan-16h.jpg" width="220"> | <img src="stories/2026-11-20/woto-a45-amg-20h.jpg" width="220"> |
+| Volkswagen Golf Sportsvan, Wattiez Motors | Mercedes-Benz A 45 AMG, BCS Franzese |
 
-## Vendredi 20 novembre
+## Samedi 21 novembre
 
 | 7h30 | 16h | 20h |
 |---|---|---|
-| <img src="stories/2026-11-20/woto-c-hr-7h30.jpg" width="220"> | <img src="stories/2026-11-20/woto-golf-sportsvan-16h.jpg" width="220"> | <img src="stories/2026-11-20/woto-a45-amg-20h.jpg" width="220"> |
-| Toyota C-HR, Mons Automobiles | Volkswagen Golf Sportsvan, Wattiez Motors | Mercedes-Benz A 45 AMG, BCS Franzese |
+| <img src="stories/2026-11-21/woto-kona-7h30.jpg" width="220"> | <img src="stories/2026-11-21/woto-xceed-16h.jpg" width="220"> | <img src="stories/2026-11-21/woto-s90-20h.jpg" width="220"> |
+| Hyundai Kona, Grs Auto | Kia XCeed, Kia - La Louvière Motors | Volvo S90, Garage Privé Wavre |
 
 Règles : [RULES.md](RULES.md)

@@ -302,7 +302,8 @@
       "channel": "meta_sticker",
       "garage": "mons-automobiles",
       "listing": "https://app.woto.be/listings/toyota/c-hr/b43b2de3-d84d-4dc0-85af-2d95e62a7ff7",
-      "slot": "2026-11-20T07:30"
+      "slot": "2026-11-20T07:30",
+      "note": "publiée, confirmée dans l'agenda Meta le 20/11 (Actif sur Facebook et Instagram)"
     },
     {
       "channel": "meta_sticker",
@@ -315,6 +316,25 @@
       "garage": "bcs-franzese",
       "listing": "https://app.woto.be/listings/mercedes-benz/a-45-amg/1cae4cd5-3f94-49a1-9c97-79e0054979ca",
       "slot": "2026-11-20T20:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "grs-auto-srl",
+      "listing": "https://app.woto.be/listings/hyundai/kona/52fb103e-0b0b-41e7-84c4-5d5a3008a2f3",
+      "slot": "2026-11-21T07:30",
+      "note": "photo de face (6e de la galerie) : sur les autres la voiture touchait les bords ; sticker placé au glisser JS, les glisser souris s'arrêtaient au milieu de la photo"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://app.woto.be/listings/kia/xceed/46cfcf20-10fa-4d26-934c-8cc5940774b5",
+      "slot": "2026-11-21T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "garage-priv-wavre",
+      "listing": "https://app.woto.be/listings/volvo/s90/7f035672-d3ae-4931-a35b-563bb0b1560f",
+      "slot": "2026-11-21T20:00"
     }
   ]
 }
