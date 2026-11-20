@@ -264,6 +264,22 @@
       "status": "programme_fb_ig",
       "modele": "BMW 330 Berline",
       "note": "Wattiez Motors écarté ce passage : photos trop serrées (pare-chocs coupé sur Ford Kuga)"
+    },
+    {
+      "slot": "2026-11-22T07:30",
+      "garage": "wattiez-motors-srl",
+      "listing": "https://app.woto.be/listings/toyota/aygo-x/d12c5643-41f6-45d3-90fe-5e18afcf81f2",
+      "status": "programme_fb_ig",
+      "modele": "Toyota Aygo X 1.0",
+      "note": "tour en cours (tirage aléatoire) ; SabanAuto Quaregnon écarté à nouveau (6 voitures testées : photos serrées, voiture coupée) ; photo 3 utilisée"
+    },
+    {
+      "slot": "2026-11-22T17:00",
+      "garage": "garage-des-chaufours",
+      "listing": "https://app.woto.be/listings/mercedes-benz/e-300/7e0e524a-3390-4fd4-bf29-420e35596b33",
+      "status": "programme_fb_ig",
+      "modele": "Mercedes E 300 Coupé AMG",
+      "note": "Car-Pass 49 395 km affiché ; photo 2 utilisée"
     }
   ]
 }
