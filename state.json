@@ -335,6 +335,26 @@
       "garage": "garage-priv-wavre",
       "listing": "https://app.woto.be/listings/volvo/s90/7f035672-d3ae-4931-a35b-563bb0b1560f",
       "slot": "2026-11-21T20:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "sabanauto-quaregnon",
+      "listing": "https://app.woto.be/listings/volkswagen/tiguan/7b6083a4-82f7-4443-9b21-7c0e7737b667",
+      "slot": "2026-11-22T07:30",
+      "note": "2e photo de la galerie (3/4 arrière) : sur les autres la voiture touchait les bords ; T-Roc écarté (voiture coupée), Taigo écarté (10 000 km en description, 11 000 km sur la fiche), Audi A4 et Volvo XC90 écartés (prix pro/export), Seat Leon et Kia Ceed écartés (marchand/export)"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "salaz-motors",
+      "listing": "https://app.woto.be/listings/volkswagen/golf-variant/941aafec-10ee-417a-9b57-be1544cca183",
+      "slot": "2026-11-22T16:00"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://app.woto.be/listings/kia/sportage/64cf9be8-3167-4544-a11d-d9197c8981bb",
+      "slot": "2026-11-22T20:00",
+      "note": "début d'un nouveau tour (tirage aléatoire : Kia, Wattiez, Mons Automobiles, BCS Franzese, DSH Cars, PP Auto, Grs Auto, Garage Privé Wavre, puis SabanAuto, Salaz) ; Luxury Cars sauté (seule fiche dispo : Alfa Giulia 1978 pour pièces, 1 km) ; Garage des Chaufours sauté (2e prix « Pour Professionnels ») ; Cardoen Mons et Auto Vedette sans voiture disponible"
     }
   ]
 }
