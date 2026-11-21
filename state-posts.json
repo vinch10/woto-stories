@@ -282,6 +282,22 @@
       "status": "programme_fb_ig",
       "modele": "Mercedes E 300 Coupé AMG",
       "note": "Car-Pass 49 395 km affiché ; photo 2 utilisée"
+    },
+    {
+      "slot": "2026-11-23T07:30",
+      "garage": "bcs-franzese",
+      "listing": "https://app.woto.be/listings/bmw/m4/0dd2ee67-65c0-4855-8455-aa1c629b425d",
+      "status": "programme_fb_ig",
+      "modele": "BMW M4 Competition",
+      "note": "tour en cours (tirage aléatoire) ; photo 1 utilisée"
+    },
+    {
+      "slot": "2026-11-23T17:00",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/listings/audi/a5/c03aed9e-24a5-42f8-aa65-7492c1fce0cf",
+      "status": "programme_fb_ig",
+      "modele": "Audi A5 Sportback 35 TFSI S line",
+      "note": "SabanAuto Quaregnon écarté à nouveau (VW T-Roc : photos serrées, bandeau) ; ig photo-h 820 focus 0.5"
     }
   ]
 }
