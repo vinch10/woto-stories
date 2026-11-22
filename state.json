@@ -355,6 +355,27 @@
       "listing": "https://app.woto.be/listings/kia/sportage/64cf9be8-3167-4544-a11d-d9197c8981bb",
       "slot": "2026-11-22T20:00",
       "note": "début d'un nouveau tour (tirage aléatoire : Kia, Wattiez, Mons Automobiles, BCS Franzese, DSH Cars, PP Auto, Grs Auto, Garage Privé Wavre, puis SabanAuto, Salaz) ; Luxury Cars sauté (seule fiche dispo : Alfa Giulia 1978 pour pièces, 1 km) ; Garage des Chaufours sauté (2e prix « Pour Professionnels ») ; Cardoen Mons et Auto Vedette sans voiture disponible"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "wattiez-motors-srl",
+      "listing": "https://app.woto.be/listings/fiat/punto/faf46c35-291b-4820-9568-270e6664773b",
+      "slot": "2026-11-23T07:30",
+      "note": "3e photo de la galerie (3/4 avant)"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/utilitaires/volkswagen/t7-transporter/f56ec39c-63a2-4d88-b5e2-56e7ab002f26",
+      "slot": "2026-11-23T16:00",
+      "note": "6e photo (3/4 arrière), --photo-h 810 : sur les autres le van touchait les bords ; description 34000 km arrondi, fiche 33 989 km affichée"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "dsh-cars",
+      "listing": "https://app.woto.be/listings/audi/a5/b6d29d0c-7e67-4966-a948-b33b384e29e0",
+      "slot": "2026-11-23T20:00",
+      "note": "BCS Franzese sauté : seule voiture dispo (Audi TTS) écartée, 30.386 km en description contre 30 586 km sur la fiche"
     }
   ]
 }
