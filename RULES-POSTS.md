@@ -12,6 +12,10 @@ Créneaux, heure de Bruxelles : 7h30, 12h15, 17h00, 19h30 et 21h30, tous les jou
 - Réservation (règle de Vincent du 23 novembre 2026, après le doublon Renault Espace) : dès qu'une voiture est choisie, `git pull`, revérifier `state.json` et `state-posts.json`, puis ajouter l'entrée avec `"status": "reserve"` et pousser sur main AVANT de rendre les visuels. Si le push est refusé, `git pull --rebase` et revérifier. Les publications ont la priorité sur les stories : en cas de doublon, c'est la story qui change (la tâche stories s'en charge).
 - Écarter : vendue ou indisponible, prix ou kilométrage absent, écart de kilométrage fiche/description sans explication, aucune photo correcte. Car-Pass dans la description : afficher ce chiffre.
 
+## Même véhicule : comparer par identifiant (règle de Vincent du 23 novembre 2026)
+- Une voiture = l'identifiant à la fin de l'URL de la fiche (ex. `9dfe015d-25c0-4077-b7c8-ff6c181996ce`). Comparer `state.json` et `state-posts.json` sur cet identifiant seulement : le début de l'URL varie (`www.woto.be` ou `app.woto.be`, `listings` ou `utilitaires`) et ne doit jamais faire croire à deux voitures différentes.
+- Deux fiches différentes du même modèle (ex. deux Maserati Levante de garages différents) sont deux voitures différentes.
+
 ## Boucle sans fin (règle de Vincent du 23 novembre 2026)
 - La diffusion ne s'arrête jamais. Priorité 1 : les voitures jamais montrées (ni dans `state.json`, ni dans `state-posts.json`), et parmi elles les nouveaux arrivages repérés au scan, en premier.
 - Quand il n'y a plus aucune voiture jamais montrée, on recommence la boucle : une voiture déjà montrée redevient possible, en prenant celle dont la dernière apparition (story ou publication) est la plus ancienne. Elle doit toujours être au stock, au même prix ou au nouveau prix affiché sur la fiche.

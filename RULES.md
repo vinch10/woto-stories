@@ -17,6 +17,10 @@ Les 10 stories du lendemain sont préparées et programmées chaque jour (deux p
 - Écarter une fiche si : voiture vendue ou fiche indisponible, prix ou kilométrage absent, écart de kilométrage sans explication, aucune photo correcte.
 - Kilométrage : si la description donne un chiffre certifié Car-Pass, afficher ce chiffre, même s'il diffère du champ arrondi de la fiche. Sinon, afficher le champ.
 
+## Même véhicule : comparer par identifiant (règle de Vincent du 23 novembre 2026)
+- Une voiture = l'identifiant à la fin de l'URL de la fiche (ex. `9dfe015d-25c0-4077-b7c8-ff6c181996ce`). Comparer `state.json` et `state-posts.json` sur cet identifiant seulement : le début de l'URL varie (`www.woto.be` ou `app.woto.be`, `listings` ou `utilitaires`) et ne doit jamais faire croire à deux voitures différentes.
+- Deux fiches différentes du même modèle (ex. deux Maserati Levante de garages différents) sont deux voitures différentes.
+
 ## Boucle sans fin (règle de Vincent du 23 novembre 2026)
 - La diffusion ne s'arrête jamais. Priorité 1 : les voitures jamais montrées (ni dans `state.json`, ni dans `state-posts.json`), et parmi elles les nouveaux arrivages repérés au scan, en premier.
 - Quand il n'y a plus aucune voiture jamais montrée, on recommence la boucle : une voiture déjà montrée redevient possible, en prenant celle dont la dernière apparition (story ou publication) est la plus ancienne. Elle doit toujours être au stock, au même prix ou au nouveau prix affiché sur la fiche.
