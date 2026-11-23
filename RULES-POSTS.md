@@ -8,9 +8,16 @@ Créneaux, heure de Bruxelles : 7h30, 12h15, 17h00, 19h30 et 21h30, tous les jou
 - Scan complet : `python3 scripts/scan.py --out inventory.json`. Ne jamais choisir depuis la page d'accueil.
 - Garages : `garages.json` est partagé avec le projet 1 (lecture). Tout vendeur du scan absent de `garages.json` est un nouveau garage : l'ajouter avec son logo recadré sur le nom dans `assets/logos/`, il passe en priorité.
 - Un garage différent à chaque créneau. Un garage ne repasse pas tant que tous les autres garages ayant des voitures disponibles ne sont pas passés (sur `state-posts.json`). Ordre aléatoire à chaque tour.
-- Jamais deux fois le même véhicule : une voiture présente dans `state-posts.json` OU dans `state.json` (stories) ne passe pas.
+- Une voiture présente dans `state-posts.json` OU dans `state.json` (stories) ne passe pas, sauf en boucle (voir Boucle sans fin).
 - Réservation (règle de Vincent du 23 novembre 2026, après le doublon Renault Espace) : dès qu'une voiture est choisie, `git pull`, revérifier `state.json` et `state-posts.json`, puis ajouter l'entrée avec `"status": "reserve"` et pousser sur main AVANT de rendre les visuels. Si le push est refusé, `git pull --rebase` et revérifier. Les publications ont la priorité sur les stories : en cas de doublon, c'est la story qui change (la tâche stories s'en charge).
 - Écarter : vendue ou indisponible, prix ou kilométrage absent, écart de kilométrage fiche/description sans explication, aucune photo correcte. Car-Pass dans la description : afficher ce chiffre.
+
+## Boucle sans fin (règle de Vincent du 23 novembre 2026)
+- La diffusion ne s'arrête jamais. Priorité 1 : les voitures jamais montrées (ni dans `state.json`, ni dans `state-posts.json`), et parmi elles les nouveaux arrivages repérés au scan, en premier.
+- Quand il n'y a plus aucune voiture jamais montrée, on recommence la boucle : une voiture déjà montrée redevient possible, en prenant celle dont la dernière apparition (story ou publication) est la plus ancienne. Elle doit toujours être au stock, au même prix ou au nouveau prix affiché sur la fiche.
+- Même en boucle, une voiture ne repasse pas si elle est apparue (story ou publication) dans les 7 derniers jours, et jamais deux fois le même jour.
+- Les nouveaux arrivages restent toujours prioritaires, même au milieu d'une boucle.
+- Ne jamais laisser un créneau vide faute de voiture « neuve » : on passe à la boucle.
 
 ## Visuel
 - `scripts/render_post.py`, gabarit B validé par Vincent le 6 novembre 2026. Deux fichiers par créneau : `--format fb` (1080 × 1080) et `--format ig` (1080 × 1350), dans `posts/AAAA-MM-JJ/woto-<voiture>-<7h30|12h15|17h|19h30|21h30>-<fb|ig>.jpg`.

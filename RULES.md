@@ -10,12 +10,19 @@ Les 10 stories du lendemain sont préparées et programmées chaque jour (deux p
 - Comparer les vendeurs du scan à `garages.json` : tout vendeur absent est un nouveau garage.
 - Un garage différent à chaque passage. Un garage ne repasse pas tant que tous les autres garages connus ne sont pas passés. Ordre aléatoire à chaque tour.
 - Garage nouveau repéré sur le site : l'ajouter à `garages.json`, il passe en priorité.
-- Voiture au hasard dans le stock du garage. Règle absolue de Vincent : ne jamais publier deux fois le même véhicule. Une voiture présente dans `state.json` ne repasse jamais, sans exception ni délai. Avant de programmer, vérifier l'URL de la fiche dans `state.json`, dans `state-posts.json` (publications fil, y compris les visuels prêts mais pas encore programmés) et dans le calendrier Meta. Une voiture déjà prise par le projet posts ne passe pas en story.
+- Voiture au hasard dans le stock du garage. Règle absolue de Vincent : ne jamais publier deux fois le même véhicule. Une voiture déjà montrée ne repasse qu'en boucle (voir Boucle sans fin). Avant de programmer, vérifier l'URL de la fiche dans `state.json`, dans `state-posts.json` (publications fil, y compris les visuels prêts mais pas encore programmés) et dans le calendrier Meta. Une voiture déjà prise par le projet posts ne passe pas en story.
 - Priorité aux publications (règle de Vincent du 23 novembre 2026, après le doublon Renault Espace) : en cas de doublon avec `state-posts.json`, c'est la story qui change. À chaque passage, comparer les stories programmées à venir (`state.json`) avec `state-posts.json` : une story en doublon est supprimée dans Meta et son créneau reprogrammé avec une autre voiture. Seule suppression autorisée dans Meta.
 - Réservation : dès qu'une voiture est choisie, `git pull`, revérifier `state.json` et `state-posts.json`, ajouter l'entrée avec `"status": "reserve"` et pousser sur main AVANT de rendre le visuel. Si le push est refusé, `git pull --rebase` et revérifier.
-- Un garage qui n'a plus que des voitures déjà publiées est sauté, jusqu'à ce qu'il en ajoute une nouvelle. Si plus aucune voiture nouvelle n'est disponible, laisser le créneau vide et le signaler.
+- Un garage qui n'a plus que des voitures déjà publiées est sauté, jusqu'à ce qu'il en ajoute une nouvelle. Si plus aucune voiture nouvelle n'est disponible, passer à la boucle (voir Boucle sans fin) : jamais de créneau vide.
 - Écarter une fiche si : voiture vendue ou fiche indisponible, prix ou kilométrage absent, écart de kilométrage sans explication, aucune photo correcte.
 - Kilométrage : si la description donne un chiffre certifié Car-Pass, afficher ce chiffre, même s'il diffère du champ arrondi de la fiche. Sinon, afficher le champ.
+
+## Boucle sans fin (règle de Vincent du 23 novembre 2026)
+- La diffusion ne s'arrête jamais. Priorité 1 : les voitures jamais montrées (ni dans `state.json`, ni dans `state-posts.json`), et parmi elles les nouveaux arrivages repérés au scan, en premier.
+- Quand il n'y a plus aucune voiture jamais montrée, on recommence la boucle : une voiture déjà montrée redevient possible, en prenant celle dont la dernière apparition (story ou publication) est la plus ancienne. Elle doit toujours être au stock, au même prix ou au nouveau prix affiché sur la fiche.
+- Même en boucle, une voiture ne repasse pas si elle est apparue (story ou publication) dans les 7 derniers jours, et jamais deux fois le même jour.
+- Les nouveaux arrivages restent toujours prioritaires, même au milieu d'une boucle.
+- Ne jamais laisser un créneau vide faute de voiture « neuve » : on passe à la boucle.
 
 ## Visuel
 - Rendu avec `scripts/render_story.py`, sans changer le gabarit et sans `--cta` : le visuel ne porte aucun bouton dessiné, le bouton est le vrai sticker.
