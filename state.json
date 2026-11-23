@@ -376,6 +376,27 @@
       "listing": "https://app.woto.be/listings/audi/a5/b6d29d0c-7e67-4966-a948-b33b384e29e0",
       "slot": "2026-11-23T20:00",
       "note": "BCS Franzese sauté : seule voiture dispo (Audi TTS) écartée, 30.386 km en description contre 30 586 km sur la fiche"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "ppauto",
+      "listing": "https://www.woto.be/listings/renault/espace/9dfe015d-25c0-4077-b7c8-ff6c181996ce",
+      "slot": "2026-11-24T07:30",
+      "note": "1re photo, --focus 0 : centrée, le pare-chocs touchait le bord"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "grs-auto-srl",
+      "listing": "https://www.woto.be/listings/hyundai/tucson/0d784239-79b7-4896-8c2e-ac9570c27a30",
+      "slot": "2026-11-24T16:00",
+      "note": "2e photo, --photo-h 810 : sur la 1re la roue touchait le bas, pas de place pour le sticker ; km certifié Car-Pass identique à la fiche"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "garage-priv-wavre",
+      "listing": "https://www.woto.be/listings/volvo/v60/bb61b7db-1b52-49d8-9f3d-ca4372b096cf",
+      "slot": "2026-11-24T20:00",
+      "note": "2e photo (1re avec cadre jaune Garage Privé). Prochains du tour : SabanAuto, Salaz"
     }
   ]
 }
