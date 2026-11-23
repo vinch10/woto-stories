@@ -397,6 +397,69 @@
       "listing": "https://www.woto.be/listings/volvo/v60/bb61b7db-1b52-49d8-9f3d-ca4372b096cf",
       "slot": "2026-11-24T20:00",
       "note": "2e photo (1re avec cadre jaune Garage Privé). Prochains du tour : SabanAuto, Salaz"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "sabanauto-quaregnon",
+      "listing": "https://www.woto.be/listings/seat/ateca/ae41d3a6-b445-4873-8f95-964ce984d2f6",
+      "slot": "2026-11-23T21:00",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "salaz-motors",
+      "listing": "https://www.woto.be/listings/bmw/216/434ce201-0f4a-4b79-8644-4a0453dad1ca",
+      "slot": "2026-11-24T07:30",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "grs-auto-srl",
+      "listing": "https://www.woto.be/listings/peugeot/5008/612734b7-b428-4d51-915d-853fadef1f69",
+      "slot": "2026-11-24T09:00",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "mons-automobiles",
+      "listing": "https://www.woto.be/listings/dacia/duster/3b40201d-83ca-4786-9d09-4d40b71a041e",
+      "slot": "2026-11-24T10:30",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "garage-priv-wavre",
+      "listing": "https://www.woto.be/listings/bmw/i4/adeaf723-def3-402c-a66e-2f45290cbdf2",
+      "slot": "2026-11-24T12:00",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "dsh-cars",
+      "listing": "https://www.woto.be/listings/audi/q3/70ac308a-f4aa-44bc-a59b-c6c795f253fe",
+      "slot": "2026-11-24T13:30",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://www.woto.be/listings/kia/stonic/83ca8816-5811-48ba-87fe-57b1c347ac62",
+      "slot": "2026-11-24T15:00",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "ppauto",
+      "listing": "https://www.woto.be/listings/renault/clio/43af3eb7-bc8a-40e8-8ddb-a3fac85c0eef",
+      "slot": "2026-11-24T18:00",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "wattiez-motors-srl",
+      "listing": "https://www.woto.be/listings/opel/astra/7c9d16a4-865d-407b-a4eb-8ca21d62242e",
+      "slot": "2026-11-24T19:30",
+      "status": "reserve"
     }
   ]
 }
