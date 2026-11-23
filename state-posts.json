@@ -370,6 +370,13 @@
       "listing": "https://app.woto.be/listings/bmw/418/b6bd6437-f7f3-4ba8-8bae-fd1d2b3d7561",
       "modele": "BMW 418d Gran Coupé",
       "status": "reserve"
+    },
+    {
+      "slot": "2026-11-25T21:30",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/listings/bmw/218/bc77cae3-6159-4f6a-b17e-ada642ceffa8",
+      "modele": "BMW 218d Active Tourer",
+      "status": "reserve"
     }
   ]
 }
