@@ -50,7 +50,7 @@ Compositeur : `https://business.facebook.com/latest/composer/?asset_id=120297105
 - Créneau du jour manqué (visuel prêt mais rien dans Meta) : la tâche du premier commentaire le publie tout de suite (« Publier », Woto seul puis woto_app seul, story Facebook désactivée, « Peut-être plus tard » au boost), puis poste le commentaire. Si aucun visuel n'est prêt, elle prévient Vincent.
 - Ne jamais laisser à Vincent une action « à faire à la main ».
 
-## Premier commentaire (posté à la sortie, tâches de 7h35, 12h20, 17h05, 19h35 et 21h35)
+## Premier commentaire (posté à la sortie, tâches de 7h35, puis 12h35, 17h35, 19h35 et 21h35)
 Meta Business Suite ne programme pas de commentaire : il est posté par une tâche planifiée, sur la publication sortie, depuis Statistiques de la publication (Contenu > Publications et reels).
 - Facebook, créneau de 7h30 seulement : `@followers` (choisir la suggestion « @followers » dans la liste) puis :
   `La <modèle>, c'est une entrée en matière. Voir l'annonce sur Woto : https://www.woto.be/<chemin de la fiche> — Tout le stock de <garage> : https://www.woto.be/professional/<slug>`
