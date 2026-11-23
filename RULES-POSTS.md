@@ -2,17 +2,18 @@
 
 Séparé du projet 1 (stories : `RULES.md`, `state.json`, `README.md`). Ne jamais modifier les fichiers du projet 1 depuis ce projet.
 
-Créneaux, heure de Bruxelles : 7h30 et 17h00, tous les jours. Une publication Facebook et une publication Instagram par créneau. Programmation 48 h à l'avance : chaque matin, on programme le surlendemain. Planning dans `POSTS.md` (aujourd'hui, demain, après-demain), suivi dans `state-posts.json`.
+Créneaux, heure de Bruxelles : 7h30, 12h15, 17h00, 19h30 et 21h30, tous les jours (5 par jour, décision de Vincent du 23 novembre 2026). Une publication Facebook et une publication Instagram par créneau. Programmation 48 h à l'avance : chaque passage remplit tous les créneaux vides d'aujourd'hui (pas encore passés), de demain et du surlendemain. Planning dans `POSTS.md` (aujourd'hui, demain, après-demain), suivi dans `state-posts.json`.
 
 ## Choix de la voiture
 - Scan complet : `python3 scripts/scan.py --out inventory.json`. Ne jamais choisir depuis la page d'accueil.
 - Garages : `garages.json` est partagé avec le projet 1 (lecture). Tout vendeur du scan absent de `garages.json` est un nouveau garage : l'ajouter avec son logo recadré sur le nom dans `assets/logos/`, il passe en priorité.
 - Un garage différent à chaque créneau. Un garage ne repasse pas tant que tous les autres garages ayant des voitures disponibles ne sont pas passés (sur `state-posts.json`). Ordre aléatoire à chaque tour.
 - Jamais deux fois le même véhicule : une voiture présente dans `state-posts.json` OU dans `state.json` (stories) ne passe pas.
+- Réservation (règle de Vincent du 23 novembre 2026, après le doublon Renault Espace) : dès qu'une voiture est choisie, `git pull`, revérifier `state.json` et `state-posts.json`, puis ajouter l'entrée avec `"status": "reserve"` et pousser sur main AVANT de rendre les visuels. Si le push est refusé, `git pull --rebase` et revérifier. Les publications ont la priorité sur les stories : en cas de doublon, c'est la story qui change (la tâche stories s'en charge).
 - Écarter : vendue ou indisponible, prix ou kilométrage absent, écart de kilométrage fiche/description sans explication, aucune photo correcte. Car-Pass dans la description : afficher ce chiffre.
 
 ## Visuel
-- `scripts/render_post.py`, gabarit B validé par Vincent le 6 novembre 2026. Deux fichiers par créneau : `--format fb` (1080 × 1080) et `--format ig` (1080 × 1350), dans `posts/AAAA-MM-JJ/woto-<voiture>-<7h30|17h>-<fb|ig>.jpg`.
+- `scripts/render_post.py`, gabarit B validé par Vincent le 6 novembre 2026. Deux fichiers par créneau : `--format fb` (1080 × 1080) et `--format ig` (1080 × 1350), dans `posts/AAAA-MM-JJ/woto-<voiture>-<7h30|12h15|17h|19h30|21h30>-<fb|ig>.jpg`.
 - Logo de `assets/logos/` et sa bulle blanche. Première photo sans cadre ni bandeau, voiture entière : régler `--focus`, `--vfocus` et `--photo-h` (790 à 850 en ig) pour que toit, roues et pare-chocs ne soient jamais coupés. Regarder chaque JPEG avant publication. Jamais d'image générée par IA.
 
 ## Texte de la publication (identique Facebook et Instagram)
@@ -42,16 +43,16 @@ Compositeur : `https://business.facebook.com/latest/composer/?asset_id=120297105
 - Créneau du jour manqué (visuel prêt mais rien dans Meta) : la tâche du premier commentaire le publie tout de suite (« Publier », Woto seul puis woto_app seul, story Facebook désactivée, « Peut-être plus tard » au boost), puis poste le commentaire. Si aucun visuel n'est prêt, elle prévient Vincent.
 - Ne jamais laisser à Vincent une action « à faire à la main ».
 
-## Premier commentaire (posté à la sortie, tâches de 7h35 et 17h05)
+## Premier commentaire (posté à la sortie, tâches de 7h35, 12h20, 17h05, 19h35 et 21h35)
 Meta Business Suite ne programme pas de commentaire : il est posté par une tâche planifiée, sur la publication sortie, depuis Statistiques de la publication (Contenu > Publications et reels).
-- Facebook, 7h35 : `@followers` (choisir la suggestion « @followers » dans la liste) puis :
+- Facebook, créneau de 7h30 seulement : `@followers` (choisir la suggestion « @followers » dans la liste) puis :
   `La <modèle>, c'est une entrée en matière. Voir l'annonce sur Woto : https://www.woto.be/<chemin de la fiche> — Tout le stock de <garage> : https://www.woto.be/professional/<slug>`
-- Facebook, 17h05 : même texte sans `@followers`.
+- Facebook, autres créneaux (12h15, 17h, 19h30, 21h30) : même texte sans `@followers`.
 - Liens toujours sur `https://www.woto.be/...` (chemin de la fiche = URL du scan sans `https://app.woto.be/`). Échap après le nom du garage pour éviter un tag de page.
 - Instagram : `La <modèle>, c'est une entrée en matière. L'annonce et tout le stock de <garage> sont sur Woto.` (sans @followers, liens non cliquables sur Instagram).
 - Accord : « La » ou « Le » selon le modèle (la Porsche, la Maserati, le Kia Sportage...).
 - Ne poster un commentaire qu'une fois par publication : vérifier qu'il n'existe pas déjà. Vérifier après envoi que les liens sont bleus (cliquables).
 
-- Rattrapage (règle de Vincent du 15 novembre 2026, « comme tous les jours, ne change jamais ») : chaque passage (tâches 7h35, 17h05 et programmation) vérifie aussi les créneaux d'aujourd'hui et d'hier déjà sortis dont l'entrée de state-posts.json n'a pas `"comment": "ok"`, et poste leur commentaire de la même façon (avec `@followers` pour un créneau de 7h30), jusqu'au bout, sans demander. Vu le 15/11 : Mac éteint à 7h35, commentaire de la Panda posté à 10h30 en rattrapage.
+- Rattrapage (règle de Vincent du 15 novembre 2026, « comme tous les jours, ne change jamais ») : chaque passage (tâches de commentaire et programmation) vérifie aussi les créneaux d'aujourd'hui et d'hier déjà sortis dont l'entrée de state-posts.json n'a pas `"comment": "ok"`, et poste leur commentaire de la même façon (avec `@followers` pour un créneau de 7h30), jusqu'au bout, sans demander. Vu le 15/11 : Mac éteint à 7h35, commentaire de la Panda posté à 10h30 en rattrapage.
 
 Si le Mac, Chrome ou Meta ne répond pas : ne rien contourner, prévenir Vincent ; le passage suivant rattrape.

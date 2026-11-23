@@ -1,8 +1,9 @@
 # Stories annonces Woto : règles
 
-Créneaux, heure de Bruxelles : 7h30, 16h00, 20h00, tous les jours. Une story par créneau, sur Facebook et Instagram.
+Créneaux, heure de Bruxelles : 7h30, 9h00, 10h30, 12h00, 13h30, 15h00, 16h30, 18h00, 19h30 et 21h00, tous les jours (10 par jour, décision de Vincent du 23 novembre 2026). Une story par créneau, sur Facebook et Instagram.
+Transition : le 24 novembre 2026, les stories déjà programmées à 16h00 et 20h00 comptent pour les créneaux 16h30 et 21h00 (ne pas les déplacer).
 
-Les 3 stories du lendemain sont préparées et programmées chaque matin, et affichées dans `README.md` : Vincent voit toujours aujourd'hui et demain, et peut intervenir. Un visuel retiré par Vincent n'est pas reprogrammé.
+Les 10 stories du lendemain sont préparées et programmées chaque jour (deux passages, 8h12 et 14h12 : le second finit ce que le premier n'a pas eu le temps de faire), et affichées dans `README.md` : Vincent voit toujours aujourd'hui et demain, et peut intervenir. Un visuel retiré par Vincent n'est pas reprogrammé.
 
 ## Choix de la voiture
 - Avant chaque choix, scanner tout le stock avec `python3 scripts/scan.py` : il lit le sitemap des annonces et des garages, donc toutes les fiches, pas seulement la page d'accueil. Si le nombre de fiches lues diffère du sitemap, le signaler. Ne jamais choisir à partir de la page d'accueil.
@@ -10,6 +11,8 @@ Les 3 stories du lendemain sont préparées et programmées chaque matin, et aff
 - Un garage différent à chaque passage. Un garage ne repasse pas tant que tous les autres garages connus ne sont pas passés. Ordre aléatoire à chaque tour.
 - Garage nouveau repéré sur le site : l'ajouter à `garages.json`, il passe en priorité.
 - Voiture au hasard dans le stock du garage. Règle absolue de Vincent : ne jamais publier deux fois le même véhicule. Une voiture présente dans `state.json` ne repasse jamais, sans exception ni délai. Avant de programmer, vérifier l'URL de la fiche dans `state.json`, dans `state-posts.json` (publications fil, y compris les visuels prêts mais pas encore programmés) et dans le calendrier Meta. Une voiture déjà prise par le projet posts ne passe pas en story.
+- Priorité aux publications (règle de Vincent du 23 novembre 2026, après le doublon Renault Espace) : en cas de doublon avec `state-posts.json`, c'est la story qui change. À chaque passage, comparer les stories programmées à venir (`state.json`) avec `state-posts.json` : une story en doublon est supprimée dans Meta et son créneau reprogrammé avec une autre voiture. Seule suppression autorisée dans Meta.
+- Réservation : dès qu'une voiture est choisie, `git pull`, revérifier `state.json` et `state-posts.json`, ajouter l'entrée avec `"status": "reserve"` et pousser sur main AVANT de rendre le visuel. Si le push est refusé, `git pull --rebase` et revérifier.
 - Un garage qui n'a plus que des voitures déjà publiées est sauté, jusqu'à ce qu'il en ajoute une nouvelle. Si plus aucune voiture nouvelle n'est disponible, laisser le créneau vide et le signaler.
 - Écarter une fiche si : voiture vendue ou fiche indisponible, prix ou kilométrage absent, écart de kilométrage sans explication, aucune photo correcte.
 - Kilométrage : si la description donne un chiffre certifié Car-Pass, afficher ce chiffre, même s'il diffère du champ arrondi de la fiche. Sinon, afficher le champ.
@@ -38,7 +41,7 @@ Compositeur : `https://business.facebook.com/latest/story_composer/?asset_id=120
 2. « Modifier » → « Plus de stickers » → « Lien ».
 3. Lien : la fiche sur `https://www.woto.be/...`, pas `app.woto.be`. Texte personnalisé : `Voir l'annonce →`. Le formulaire remonte après la saisie du lien, donc saisir le texte d'abord, puis le lien. Le formulaire peut garder d'anciennes valeurs : tout effacer avant de saisir. « Appliquer ».
 4. Cliquer une fois sur le sticker pour le sélectionner, puis le glisser en bas de la photo, sous la voiture, au-dessus du logo. Si le formulaire se rouvre, « Appliquer ». Vérifier au zoom : ni voiture ni logo masqués. « Appliquer ».
-5. « Programmer » : pour Facebook et pour Instagram, cliquer les heures et taper `7`, `16` ou `20`, cliquer les minutes et taper `30` ou `00`, puis choisir la date. Le calendrier peut s'ouvrir au-dessus du champ. Vérifier par capture les quatre valeurs, puis « Programmer ». Ne jamais cliquer « Partager maintenant », sauf pour le rattrapage ci-dessous.
+5. « Programmer » : pour Facebook et pour Instagram, cliquer les heures et taper l'heure du créneau (`7`, `9`, `10`, `12`, `13`, `15`, `16`, `18`, `19`, `21`), cliquer les minutes et taper `30` ou `00`, puis choisir la date. Le calendrier peut s'ouvrir au-dessus du champ. Vérifier par capture les quatre valeurs, puis « Programmer ». Ne jamais cliquer « Partager maintenant », sauf pour le rattrapage ci-dessous.
 6. Contrôler dans l'agenda Meta que la story apparaît deux fois, avec les icônes Facebook et Instagram, au bon créneau, et ouvrir l'aperçu pour voir le sticker.
 
 Des cartes vertes vides peuvent rester dans l'agenda après la suppression d'une story : aperçu indisponible et aucune date de programmation. Ne rien cliquer dessus.
@@ -46,8 +49,8 @@ Des cartes vertes vides peuvent rester dans l'agenda après la suppression d'une
 Si le Mac, Chrome ou Meta ne répond pas, ne pas se rabattre sur GHL : prévenir Vincent.
 
 ## Rattrapage d'un créneau manqué
-Décision de Vincent du 11 novembre 2026 : toujours 3 stories par jour. Si un créneau du jour n'a pas pu être programmé (Mac injoignable, dossier introuvable, Chrome fermé, Meta déconnecté…), dès que la connexion revient :
-- Avant midi, heure de Bruxelles : publier tout de suite la story manquée, avec « Partager maintenant ». C'est la seule exception à l'interdiction de « Partager maintenant ». Toutes les autres règles s'appliquent : choix du garage, anti-doublon (`state.json` et `state-posts.json`), visuel contrôlé, sticker Lien « Voir l'annonce → ».
-- Après midi : pas de rattrapage du créneau du matin.
-- Les créneaux encore à venir (16h, 20h) sont programmés normalement s'ils sont vides.
+Décision de Vincent du 11 novembre 2026, mise à jour le 23 novembre : toujours 10 stories par jour. Si un créneau du jour n'a pas pu être programmé (Mac injoignable, dossier introuvable, Chrome fermé, Meta déconnecté…), dès que la connexion revient :
+- Créneau dépassé de moins de 2 heures : publier tout de suite la story manquée, avec « Partager maintenant ». C'est la seule exception à l'interdiction de « Partager maintenant ». Toutes les autres règles s'appliquent : choix du garage, anti-doublon (`state.json` et `state-posts.json`), visuel contrôlé, sticker Lien « Voir l'annonce → ».
+- Dépassé de plus de 2 heures : pas de rattrapage, le créneau est perdu ; le signaler.
+- Les créneaux encore à venir aujourd'hui sont programmés normalement s'ils sont vides.
 - Inscrire la story dans `state.json` avec l'heure réelle de publication, et le signaler dans le résumé.
