@@ -317,7 +317,7 @@
       "garage": "kia-la-louvire-motors",
       "listing": "https://app.woto.be/listings/kia/sportage/af5f8a2b-f5f1-4589-af21-a9351d1b1a21",
       "modele": "Kia Sportage HEV GT Line",
-      "status": "reserve"
+      "status": "programme_fb_ig"
     },
     {
       "slot": "2026-11-24T17:00",
@@ -339,7 +339,7 @@
       "garage": "bcs-franzese",
       "listing": "https://app.woto.be/listings/audi/tts/ca610667-b486-4cdc-b8ba-9b54e146634f",
       "modele": "Audi TTS Roadster quattro",
-      "status": "reserve"
+      "status": "programme_fb_ig"
     },
     {
       "slot": "2026-11-25T07:30",
@@ -354,7 +354,7 @@
       "garage": "wattiez-motors-srl",
       "listing": "https://app.woto.be/listings/ford/kuga/0f400a82-aca1-4b1e-884b-5f32c0f1e207",
       "modele": "Ford Kuga 1.5 EcoBoost",
-      "status": "reserve"
+      "status": "programme_fb_ig"
     },
     {
       "slot": "2026-11-25T17:00",
@@ -369,14 +369,14 @@
       "garage": "salaz-motors",
       "listing": "https://app.woto.be/listings/bmw/418/b6bd6437-f7f3-4ba8-8bae-fd1d2b3d7561",
       "modele": "BMW 418d Gran Coupé",
-      "status": "reserve"
+      "status": "programme_fb_ig"
     },
     {
       "slot": "2026-11-25T21:30",
       "garage": "mons-automobiles",
       "listing": "https://app.woto.be/listings/bmw/218/bc77cae3-6159-4f6a-b17e-ada642ceffa8",
       "modele": "BMW 218d Active Tourer",
-      "status": "reserve"
+      "status": "programme_fb_ig"
     }
   ]
 }
