@@ -511,35 +511,35 @@
       "garage": "salaz-motors",
       "listing": "https://www.woto.be/listings/skoda/superb/19a6e642-e675-4f3b-b517-9c09e012ef69",
       "slot": "2026-11-25T15:00",
-      "status": "reserve"
+      "status": "programme_fb_ig"
     },
     {
       "channel": "meta_sticker",
       "garage": "wattiez-motors-srl",
       "listing": "https://www.woto.be/listings/ford/grand-c-max/5f9bb480-d8b0-4b51-bbea-654d2ac187c4",
       "slot": "2026-11-25T16:30",
-      "status": "reserve"
+      "status": "programme_fb_ig"
     },
     {
       "channel": "meta_sticker",
       "garage": "mons-automobiles",
       "listing": "https://www.woto.be/listings/toyota/proace-city/14e96a70-c53c-492b-838f-305765668062",
       "slot": "2026-11-25T18:00",
-      "status": "reserve"
+      "status": "programme_fb_ig"
     },
     {
       "channel": "meta_sticker",
       "garage": "garage-priv-wavre",
       "listing": "https://www.woto.be/listings/dodge/ram/0b6cf25a-0990-4f01-9e02-92c22e02a44d",
       "slot": "2026-11-25T19:30",
-      "status": "reserve"
+      "status": "programme_fb_ig"
     },
     {
       "channel": "meta_sticker",
       "garage": "kia-la-louvire-motors",
       "listing": "https://www.woto.be/listings/kia/sportage/38e77a4a-362d-4522-8005-ba46544842f3",
       "slot": "2026-11-25T21:00",
-      "status": "reserve"
+      "status": "programme_fb_ig"
     }
   ]
 }
