@@ -416,11 +416,11 @@
     },
     {
       "slot": "2026-11-26T21:30",
-      "garage": "garage-des-chaufours",
-      "listing": "https://app.woto.be/listings/porsche/panamera/2bc20908-cb9d-42b3-9a0f-231ebfb7c045",
-      "modele": "Porsche Panamera 4S",
+      "garage": "garage-priv-wavre",
+      "listing": "https://app.woto.be/listings/bmw/135/af9da75d-1e81-4fa1-bb53-409afd41d03b",
+      "modele": "BMW M135i xDrive",
       "status": "reserve",
-      "prix": 69999
+      "prix": 45000
     }
   ]
 }
