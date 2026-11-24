@@ -4,12 +4,12 @@ Mis à jour à chaque passage. Heures de Bruxelles. Sur chaque story, Facebook e
 
 ## Mardi 24 novembre
 
-7h30 sortie (Dacia Duster, Mons Automobiles). À venir :
+Sorties : 7h30 Dacia Duster (Mons Automobiles), 9h00 Peugeot 5008 (Grs Auto), 10h30 BMW i4 (Garage Privé Wavre), 12h00 Audi Q3 Sportback (DSH Cars), 13h30 Kia Stonic (Kia La Louvière). À venir :
 
-| 9h00 | 10h30 | 12h00 | 13h30 | 15h00 |
-|---|---|---|---|---|
-| <img src="stories/2026-11-24/woto-5008-9h00.jpg" width="160"> | <img src="stories/2026-11-24/woto-i4-10h30.jpg" width="160"> | <img src="stories/2026-11-24/woto-q3-12h00.jpg" width="160"> | <img src="stories/2026-11-24/woto-stonic-13h30.jpg" width="160"> | <img src="stories/2026-11-24/woto-clio-15h00.jpg" width="160"> |
-| Peugeot 5008, Grs Auto | BMW i4, Garage Privé Wavre | Audi Q3 Sportback, DSH Cars | Kia Stonic, Kia La Louvière | Renault Clio, PP Auto |
+| 15h00 |
+|---|
+| <img src="stories/2026-11-24/woto-clio-15h00.jpg" width="160"> |
+| Renault Clio, PP Auto |
 
 | 16h30 (programmée 16h00) | 18h00 | 19h30 | 21h00 (programmée 20h00) |
 |---|---|---|---|
