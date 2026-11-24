@@ -384,7 +384,7 @@
       "garage": "sabanauto-quaregnon",
       "listing": "https://app.woto.be/listings/mercedes-benz/a-180/f7ebb8a7-a14a-4649-b3a1-4b5a85ce5007",
       "modele": "Mercedes-Benz A 180",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 17990
     },
     {
@@ -392,7 +392,7 @@
       "garage": "luxury-cars-center-by-alfonso",
       "listing": "https://app.woto.be/utilitaires/renault/trafic-vip-tva-deductible/570b2d97-a660-4709-9988-cdc81eb4b605",
       "modele": "Renault Trafic VIP 2.0 dCi",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 50000,
       "boucle": true
     },
@@ -401,7 +401,7 @@
       "garage": "auto-vedette-fils-srl",
       "listing": "https://app.woto.be/listings/lancia/ypsilon/b5f89112-8a4e-4072-9163-e6d17efedc06",
       "modele": "Lancia Ypsilon 1.2",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 4990,
       "boucle": true
     },
@@ -410,7 +410,7 @@
       "garage": "cardoen-mons",
       "listing": "https://app.woto.be/listings/citroen/berlingo/ec16c17f-ee65-4a1a-b9c9-577eead49621",
       "modele": "Citroën Berlingo 1.5 BlueHDi Shine",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 16999,
       "boucle": true
     },
@@ -419,7 +419,7 @@
       "garage": "garage-priv-wavre",
       "listing": "https://app.woto.be/listings/bmw/135/af9da75d-1e81-4fa1-bb53-409afd41d03b",
       "modele": "BMW M135i xDrive",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 45000
     }
   ]
