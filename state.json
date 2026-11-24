@@ -470,6 +470,76 @@
       "listing": "https://www.woto.be/listings/volvo/v60/bb61b7db-1b52-49d8-9f3d-ca4372b096cf",
       "slot": "2026-11-24T20:00",
       "note": "2e photo (1re avec cadre jaune Garage Privé). Prochains du tour : SabanAuto, Salaz"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "sabanauto-quaregnon",
+      "listing": "https://www.woto.be/listings/renault/captur/29fb5164-16d3-44c2-b13a-1e6860c10b60",
+      "slot": "2026-11-25T07:30",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "grs-auto-srl",
+      "listing": "https://www.woto.be/listings/ds-automobiles/ds-3-crossback/0be33b0c-df32-4ae6-bd27-9c72016a3ff9",
+      "slot": "2026-11-25T09:00",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "mons-automobiles",
+      "listing": "https://www.woto.be/listings/skoda/scala/f2eda74e-03cb-49e7-b768-9018943c0977",
+      "slot": "2026-11-25T10:30",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://www.woto.be/listings/kia/ceed/fd7180b9-a309-426f-9bb2-8537eb4d395c",
+      "slot": "2026-11-25T12:00",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "garage-priv-wavre",
+      "listing": "https://www.woto.be/listings/mini/john-cooper-works-clubman/61d52064-f89b-4a14-a79f-d9b61d9ed0f3",
+      "slot": "2026-11-25T13:30",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "salaz-motors",
+      "listing": "https://www.woto.be/listings/skoda/superb/19a6e642-e675-4f3b-b517-9c09e012ef69",
+      "slot": "2026-11-25T15:00",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "wattiez-motors-srl",
+      "listing": "https://www.woto.be/listings/ford/grand-c-max/5f9bb480-d8b0-4b51-bbea-654d2ac187c4",
+      "slot": "2026-11-25T16:30",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "sabanauto-quaregnon",
+      "listing": "https://www.woto.be/listings/mercedes-benz/cla-200/0b14bd1e-b5b2-4195-9286-022e60772884",
+      "slot": "2026-11-25T18:00",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "garage-priv-wavre",
+      "listing": "https://www.woto.be/listings/dodge/ram/0b6cf25a-0990-4f01-9e02-92c22e02a44d",
+      "slot": "2026-11-25T19:30",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://www.woto.be/listings/kia/sportage/38e77a4a-362d-4522-8005-ba46544842f3",
+      "slot": "2026-11-25T21:00",
+      "status": "reserve"
     }
   ]
 }
