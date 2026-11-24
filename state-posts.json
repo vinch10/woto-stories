@@ -378,6 +378,49 @@
       "listing": "https://app.woto.be/listings/bmw/218/bc77cae3-6159-4f6a-b17e-ada642ceffa8",
       "modele": "BMW 218d Active Tourer",
       "status": "programme_fb_ig"
+    },
+    {
+      "slot": "2026-11-26T07:30",
+      "garage": "sabanauto-quaregnon",
+      "listing": "https://app.woto.be/listings/bmw/x3/b491e892-f686-4db9-9f85-632158038562",
+      "modele": "BMW X3 xDrive20d Pack M",
+      "status": "reserve",
+      "prix": 31990
+    },
+    {
+      "slot": "2026-11-26T12:15",
+      "garage": "luxury-cars-center-by-alfonso",
+      "listing": "https://app.woto.be/utilitaires/renault/trafic-vip-tva-deductible/570b2d97-a660-4709-9988-cdc81eb4b605",
+      "modele": "Renault Trafic VIP 2.0 dCi",
+      "status": "reserve",
+      "prix": 50000,
+      "boucle": true
+    },
+    {
+      "slot": "2026-11-26T17:00",
+      "garage": "auto-vedette-fils-srl",
+      "listing": "https://app.woto.be/listings/lancia/ypsilon/b5f89112-8a4e-4072-9163-e6d17efedc06",
+      "modele": "Lancia Ypsilon 1.2",
+      "status": "reserve",
+      "prix": 4990,
+      "boucle": true
+    },
+    {
+      "slot": "2026-11-26T19:30",
+      "garage": "cardoen-mons",
+      "listing": "https://app.woto.be/listings/citroen/berlingo/ec16c17f-ee65-4a1a-b9c9-577eead49621",
+      "modele": "Citroën Berlingo 1.5 BlueHDi Shine",
+      "status": "reserve",
+      "prix": 16999,
+      "boucle": true
+    },
+    {
+      "slot": "2026-11-26T21:30",
+      "garage": "garage-des-chaufours",
+      "listing": "https://app.woto.be/listings/porsche/panamera/2bc20908-cb9d-42b3-9a0f-231ebfb7c045",
+      "modele": "Porsche Panamera 4S",
+      "status": "reserve",
+      "prix": 69999
     }
   ]
 }
