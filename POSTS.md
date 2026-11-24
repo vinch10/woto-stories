@@ -5,9 +5,9 @@ Facebook 1080 × 1080, Instagram 1080 × 1350. Premier commentaire posté à 7h3
 
 ## Mardi 24 novembre
 
-7h30 sortie (Maserati Levante Modena Ultima, Garage Privé Wavre). Créneaux restants :
+7h30 et 12h15 sortis (Maserati Levante, Kia Sportage). Restent 17h, 19h30 et 21h30, tous programmés :
 
-| 7h30 (sortie) | 12h15 | 17h | 19h30 | 21h30 |
+| 7h30 (sortie) | 12h15 (sortie) | 17h | 19h30 | 21h30 |
 |---|---|---|---|---|
 | <img src="posts/2026-11-24/woto-maserati-levante-7h30-fb.jpg" width="160"> | <img src="posts/2026-11-24/woto-kia-sportage-12h15-fb.jpg" width="160"> | <img src="posts/2026-11-24/woto-bmw-420-gran-coupe-17h-fb.jpg" width="160"> | <img src="posts/2026-11-24/woto-alfa-romeo-tonale-19h30-fb.jpg" width="160"> | <img src="posts/2026-11-24/woto-audi-tts-roadster-21h30-fb.jpg" width="160"> |
 | Maserati Levante Modena Ultima, Garage Privé Wavre (74 950 €) | Kia Sportage HEV GT Line, Kia - La Louvière Motors (29 890 €) | BMW 420i Gran Coupé, DSH Cars (34 990 €) | Alfa Romeo Tonale PHEV Speciale, Garage des Chaufours (30 999 €) | Audi TTS Roadster quattro, BCS Franzese (49 990 €) |
