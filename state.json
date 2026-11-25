@@ -540,6 +540,76 @@
       "listing": "https://www.woto.be/listings/kia/sportage/38e77a4a-362d-4522-8005-ba46544842f3",
       "slot": "2026-11-25T21:00",
       "status": "programme_fb_ig"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "mc-cars",
+      "listing": "https://www.woto.be/listings/suzuki/alto/b6399188-10ff-4ebb-b591-f932b146b36e",
+      "slot": "2026-11-26T07:30",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://www.woto.be/listings/kia/xceed/cd44a1bb-4ac8-419a-a16f-e02303bc2184",
+      "slot": "2026-11-26T09:00",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "garage-priv-wavre",
+      "listing": "https://www.woto.be/listings/audi/s3/70e89528-d2c4-4165-b0e8-665fb1a7b957",
+      "slot": "2026-11-26T10:30",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "dsh-cars",
+      "listing": "https://www.woto.be/listings/hyundai/i20/97e797ea-1997-48fc-be31-6dd8d3b1b8cc",
+      "slot": "2026-11-26T12:00",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "wattiez-motors-srl",
+      "listing": "https://www.woto.be/listings/peugeot/5008/27620a6c-4d5f-4556-9c55-7cf1264b7d17",
+      "slot": "2026-11-26T13:30",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "grs-auto-srl",
+      "listing": "https://www.woto.be/listings/toyota/aygo/321fa3a7-4c18-4482-8260-1a3feea1e5d2",
+      "slot": "2026-11-26T15:00",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "salaz-motors",
+      "listing": "https://www.woto.be/listings/skoda/scala/52a6fa08-d1fd-4506-94d5-33223bdbe2a0",
+      "slot": "2026-11-26T16:30",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "mons-automobiles",
+      "listing": "https://www.woto.be/listings/mercedes-benz/cla-180/5edd6359-7162-4d07-8484-a8244903fb2b",
+      "slot": "2026-11-26T18:00",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "mc-cars",
+      "listing": "https://www.woto.be/listings/citroen/c3/60fff0f3-129b-4362-93ca-2243dd536d8a",
+      "slot": "2026-11-26T19:30",
+      "status": "reserve"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "garage-priv-wavre",
+      "listing": "https://www.woto.be/listings/toyota/proace/e6bba364-911b-4b91-a5a8-c350ac1b089f",
+      "slot": "2026-11-26T21:00",
+      "status": "reserve"
     }
   ]
 }
