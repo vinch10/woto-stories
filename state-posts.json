@@ -426,6 +426,46 @@
       "modele": "BMW M135i xDrive",
       "status": "programme_fb_ig",
       "prix": 45000
+    },
+    {
+      "slot": "2026-11-27T07:30",
+      "garage": "mc-cars",
+      "listing": "https://app.woto.be/listings/renault/twingo/fd2c8f3e-418c-416c-b602-cbd647361b38",
+      "modele": "Renault Twingo 1.2",
+      "status": "reserve",
+      "prix": 2850
+    },
+    {
+      "slot": "2026-11-27T12:15",
+      "garage": "wattiez-motors-srl",
+      "listing": "https://app.woto.be/listings/toyota/aygo-x/6c1a7514-1361-4054-953a-3fe51b196d9a",
+      "modele": "Toyota Aygo X 1.0",
+      "status": "reserve",
+      "prix": 12999
+    },
+    {
+      "slot": "2026-11-27T17:00",
+      "garage": "grs-auto-srl",
+      "listing": "https://app.woto.be/listings/kia/ceed/2f02ea2c-98c7-4dbb-a6ab-e79900270b26",
+      "modele": "Kia Ceed 1.0 T-GDi Pulse",
+      "status": "reserve",
+      "prix": 14990
+    },
+    {
+      "slot": "2026-11-27T19:30",
+      "garage": "salaz-motors",
+      "listing": "https://app.woto.be/listings/land-rover/range-rover-evoque/9652fb74-551e-4f14-9d5b-d16a89783625",
+      "modele": "Range Rover Evoque 2.0 TD4",
+      "status": "reserve",
+      "prix": 12990
+    },
+    {
+      "slot": "2026-11-27T21:30",
+      "garage": "dsh-cars",
+      "listing": "https://app.woto.be/listings/nissan/x-trail/3659b358-550e-405f-b2d9-752e4ef30109",
+      "modele": "Nissan X-Trail e-Power e-4ORCE",
+      "status": "reserve",
+      "prix": 25990
     }
   ]
 }
