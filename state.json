@@ -546,70 +546,80 @@
       "garage": "mc-cars",
       "listing": "https://www.woto.be/listings/seat/ibiza/07348c76-3b8c-48de-959d-294ac36485bb",
       "slot": "2026-11-26T07:30",
-      "status": "programme_fb_ig"
+      "status": "programme_fb_ig",
+      "note": "6e photo, --photo-h 810 ; nouveau garage MC Cars ; Suzuki Alto et Renault Twingo écartées (voiture coupée)"
     },
     {
       "channel": "meta_sticker",
       "garage": "kia-la-louvire-motors",
       "listing": "https://www.woto.be/listings/kia/xceed/cd44a1bb-4ac8-419a-a16f-e02303bc2184",
       "slot": "2026-11-26T09:00",
-      "status": "programme_fb_ig"
+      "status": "programme_fb_ig",
+      "note": "1re photo, nouvel arrivage"
     },
     {
       "channel": "meta_sticker",
       "garage": "garage-priv-wavre",
       "listing": "https://www.woto.be/listings/audi/s3/70e89528-d2c4-4165-b0e8-665fb1a7b957",
       "slot": "2026-11-26T10:30",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "2e photo (1re avec cadre jaune Garage Privé), nouvel arrivage"
     },
     {
       "channel": "meta_sticker",
       "garage": "dsh-cars",
       "listing": "https://www.woto.be/listings/hyundai/i20/97e797ea-1997-48fc-be31-6dd8d3b1b8cc",
       "slot": "2026-11-26T12:00",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "1re photo, --photo-h 810 ; nouvel arrivage ; Nissan X-Trail DSH écartée (26 990 € dans la description, 25 990 € sur la fiche)"
     },
     {
       "channel": "meta_sticker",
       "garage": "wattiez-motors-srl",
       "listing": "https://www.woto.be/listings/peugeot/3008/5e3bdef7-2a0f-4f1d-ba3b-70aaa1e307cc",
       "slot": "2026-11-26T13:30",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "1re photo, --photo-h 810 ; Peugeot 5008 écartée (voiture coupée)"
     },
     {
       "channel": "meta_sticker",
       "garage": "grs-auto-srl",
       "listing": "https://www.woto.be/listings/toyota/aygo/321fa3a7-4c18-4482-8260-1a3feea1e5d2",
       "slot": "2026-11-26T15:00",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "1re photo ; km certifié Car-Pass = fiche"
     },
     {
       "channel": "meta_sticker",
       "garage": "salaz-motors",
       "listing": "https://www.woto.be/listings/kia/ceed/98ec547e-041a-4177-9a30-4494dfa0b1ed",
       "slot": "2026-11-26T16:30",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "1re photo, --photo-h 810 ; Škoda Scala écartée (pas de place pour le sticker)"
     },
     {
       "channel": "meta_sticker",
       "garage": "mons-automobiles",
       "listing": "https://www.woto.be/listings/mercedes-benz/cla-180/5edd6359-7162-4d07-8484-a8244903fb2b",
       "slot": "2026-11-26T18:00",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "4e photo, --photo-h 810"
     },
     {
       "channel": "meta_sticker",
       "garage": "mc-cars",
       "listing": "https://www.woto.be/listings/citroen/c3/60fff0f3-129b-4362-93ca-2243dd536d8a",
       "slot": "2026-11-26T19:30",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "2e photo ; MC Cars"
     },
     {
       "channel": "meta_sticker",
       "garage": "garage-priv-wavre",
       "listing": "https://www.woto.be/listings/toyota/proace/e6bba364-911b-4b91-a5a8-c350ac1b089f",
       "slot": "2026-11-26T21:00",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "2e photo (1re avec cadre jaune Garage Privé)"
     }
   ]
 }
