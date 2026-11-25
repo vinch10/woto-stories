@@ -4,12 +4,7 @@ Mis à jour à chaque passage. Heures de Bruxelles. Sur chaque story, Facebook e
 
 ## Mercredi 25 novembre
 
-Sorties : 7h30 Opel Astra GTC (Salaz Motors). À venir :
-
-| 9h00 | 10h30 | 12h00 | 13h30 |
-|---|---|---|---|
-| <img src="stories/2026-11-25/woto-ds3-9h00.jpg" width="160"> | <img src="stories/2026-11-25/woto-scala-10h30.jpg" width="160"> | <img src="stories/2026-11-25/woto-ceed-12h00.jpg" width="160"> | <img src="stories/2026-11-25/woto-jcw-13h30.jpg" width="160"> |
-| DS 3 Crossback, Grs Auto | Škoda Scala, Mons Automobiles | Kia Ceed, Kia La Louvière | Mini John Cooper Works Clubman, Garage Privé Wavre |
+Sorties : 7h30 Opel Astra GTC (Salaz Motors), 9h00 DS 3 Crossback (Grs Auto), 10h30 Škoda Scala (Mons Automobiles), 12h00 Kia Ceed (Kia La Louvière), 13h30 Mini John Cooper Works Clubman (Garage Privé Wavre). À venir :
 
 | 15h00 | 16h30 | 18h00 | 19h30 | 21h00 |
 |---|---|---|---|---|
