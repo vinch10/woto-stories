@@ -369,7 +369,8 @@
       "listing": "https://app.woto.be/listings/renault/grand-scenic/c49ba4bf-236e-434d-a35e-3cd18fedea74",
       "status": "programme_fb_ig",
       "modele": "Renault Grand Scénic 1.3 TCe Limited",
-      "note": "Hyundai Tucson écarté (photos serrées, nez coupé) ; photo 3 utilisée, vfocus 0.6 ; fiche lue via le scan (WebFetch refusé ce passage)"
+      "note": "Hyundai Tucson écarté (photos serrées, nez coupé) ; photo 3 utilisée, vfocus 0.6 ; fiche lue via le scan (WebFetch refusé ce passage)",
+      "comment": "ok"
     },
     {
       "slot": "2026-11-25T19:30",
