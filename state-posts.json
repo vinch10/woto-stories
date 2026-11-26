@@ -477,7 +477,7 @@
       "garage": "garage-des-chaufours",
       "listing": "https://app.woto.be/listings/audi/q3/d089c98e-3368-42de-9217-14a1d19da176",
       "modele": "Audi Q3 Sportback 1.5 TFSI S line",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 45999,
       "note": "Porsche Panamera 4S écartée : fiche sans photo propre (le scan ne remonte que des photos d'autres annonces)"
     },
@@ -486,7 +486,7 @@
       "garage": "kia-la-louvire-motors",
       "listing": "https://app.woto.be/listings/kia/sportage/4109ea02-5950-410e-9c7d-e806f02ac599",
       "modele": "Kia Sportage 1.6 T-GDi GT Line",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 26490
     },
     {
@@ -494,7 +494,7 @@
       "garage": "bcs-franzese",
       "listing": "https://app.woto.be/listings/maserati/levante/1a80f605-2909-4237-8bb0-e7d0526e21df",
       "modele": "Maserati Levante GranSport",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 49990,
       "boucle": true
     },
@@ -503,7 +503,7 @@
       "garage": "sabanauto-quaregnon",
       "listing": "https://app.woto.be/listings/mercedes-benz/cla-200/0b14bd1e-b5b2-4195-9286-022e60772884",
       "modele": "Mercedes-Benz CLA 200",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 20990,
       "note": "BMW X3 puis VW Taigo écartés : photos trop serrées, voiture coupée"
     },
@@ -512,7 +512,7 @@
       "garage": "mons-automobiles",
       "listing": "https://app.woto.be/listings/bmw/x5/10efe7e8-4306-414b-858c-8814ea6c1de5",
       "modele": "BMW X5 xDrive30d Pack M",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 19499,
       "note": "BMW X1 écartée : fiche sans photo propre"
     }
