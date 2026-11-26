@@ -90,5 +90,12 @@
     "page": "https://app.woto.be/professional/mc-cars",
     "logo": "assets/logos/mc-cars.png",
     "logo_box": "480x86"
+  },
+  "ryan-khemir": {
+    "name": "Ryan Khemir",
+    "page": "https://app.woto.be/professional/ryan-khemir",
+    "logo": "assets/logos/ryan-khemir.png",
+    "logo_box": "170x170",
+    "note": "nouveau garage repéré au scan du 26/11/2026 14h (6 Mercedes), prioritaire au prochain passage"
   }
 }
