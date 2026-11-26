@@ -394,7 +394,8 @@
       "listing": "https://app.woto.be/listings/mercedes-benz/a-180/f7ebb8a7-a14a-4649-b3a1-4b5a85ce5007",
       "modele": "Mercedes-Benz A 180",
       "status": "programme_fb_ig",
-      "prix": 17990
+      "prix": 17990,
+      "comment": "ok"
     },
     {
       "slot": "2026-11-26T12:15",
