@@ -433,7 +433,8 @@
       "listing": "https://app.woto.be/listings/bmw/135/af9da75d-1e81-4fa1-bb53-409afd41d03b",
       "modele": "BMW M135i xDrive",
       "status": "programme_fb_ig",
-      "prix": 45000
+      "prix": 45000,
+      "comment": "ok"
     },
     {
       "slot": "2026-11-27T07:30",
