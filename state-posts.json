@@ -471,6 +471,47 @@
       "modele": "Nissan X-Trail e-Power e-4ORCE",
       "status": "programme_fb_ig",
       "prix": 25990
+    },
+    {
+      "slot": "2026-11-28T07:30",
+      "garage": "garage-des-chaufours",
+      "listing": "https://app.woto.be/listings/porsche/panamera/2bc20908-cb9d-42b3-9a0f-231ebfb7c045",
+      "modele": "Porsche Panamera 4S",
+      "status": "reserve",
+      "prix": 69999
+    },
+    {
+      "slot": "2026-11-28T12:15",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://app.woto.be/listings/kia/sportage/4109ea02-5950-410e-9c7d-e806f02ac599",
+      "modele": "Kia Sportage 1.6 T-GDi GT Line",
+      "status": "reserve",
+      "prix": 26490
+    },
+    {
+      "slot": "2026-11-28T17:00",
+      "garage": "bcs-franzese",
+      "listing": "https://app.woto.be/listings/maserati/levante/1a80f605-2909-4237-8bb0-e7d0526e21df",
+      "modele": "Maserati Levante GranSport",
+      "status": "reserve",
+      "prix": 49990,
+      "boucle": true
+    },
+    {
+      "slot": "2026-11-28T19:30",
+      "garage": "sabanauto-quaregnon",
+      "listing": "https://app.woto.be/listings/bmw/x3/b491e892-f686-4db9-9f85-632158038562",
+      "modele": "BMW X3 xDrive20d Pack M",
+      "status": "reserve",
+      "prix": 31990
+    },
+    {
+      "slot": "2026-11-28T21:30",
+      "garage": "mons-automobiles",
+      "listing": "https://app.woto.be/listings/bmw/x1/84ae5b37-abf6-47bd-be81-5b15eed7d576",
+      "modele": "BMW X1 sDrive16d Pack M",
+      "status": "reserve",
+      "prix": 20999
     }
   ]
 }
