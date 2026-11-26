@@ -414,7 +414,8 @@
       "modele": "Lancia Ypsilon 1.2",
       "status": "programme_fb_ig",
       "prix": 4990,
-      "boucle": true
+      "boucle": true,
+      "comment": "ok"
     },
     {
       "slot": "2026-11-26T19:30",
