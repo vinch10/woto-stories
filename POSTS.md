@@ -5,12 +5,12 @@ Facebook 1080 × 1080, Instagram 1080 × 1350. Premier commentaire posté à 7h3
 
 ## Jeudi 26 novembre
 
-7h30 sorti (Mercedes-Benz A 180). 12h15 et les suivants programmés :
+7h30 (Mercedes-Benz A 180, SabanAuto Quaregnon) et 12h15 (Renault Trafic VIP, Luxury Cars Center By Alfonso) sortis. Restent :
 
-| 7h30 (sortie) | 12h15 | 17h | 19h30 | 21h30 |
-|---|---|---|---|---|
-| <img src="posts/2026-11-26/woto-mercedes-a180-7h30-fb.jpg" width="160"> | <img src="posts/2026-11-26/woto-renault-trafic-vip-12h15-fb.jpg" width="160"> | <img src="posts/2026-11-26/woto-lancia-ypsilon-17h-fb.jpg" width="160"> | <img src="posts/2026-11-26/woto-citroen-berlingo-19h30-fb.jpg" width="160"> | <img src="posts/2026-11-26/woto-bmw-m135i-21h30-fb.jpg" width="160"> |
-| Mercedes-Benz A 180, SabanAuto Quaregnon (17 990 €) | Renault Trafic VIP 2.0 dCi, Luxury Cars Center By Alfonso (50 000 €, boucle) | Lancia Ypsilon 1.2, Auto Vedette & Fils (4 990 €, boucle) | Citroën Berlingo 1.5 BlueHDi, Cardoen Mons (16 999 €, boucle) | BMW M135i xDrive, Garage Privé Wavre (45 000 €) |
+| 17h | 19h30 | 21h30 |
+|---|---|---|
+| <img src="posts/2026-11-26/woto-lancia-ypsilon-17h-fb.jpg" width="160"> | <img src="posts/2026-11-26/woto-citroen-berlingo-19h30-fb.jpg" width="160"> | <img src="posts/2026-11-26/woto-bmw-m135i-21h30-fb.jpg" width="160"> |
+| Lancia Ypsilon 1.2, Auto Vedette & Fils (4 990 €, boucle) | Citroën Berlingo 1.5 BlueHDi, Cardoen Mons (16 999 €, boucle) | BMW M135i xDrive, Garage Privé Wavre (45 000 €) |
 
 ## Vendredi 27 novembre
 
