@@ -634,7 +634,8 @@
       "garage": "salaz-motors",
       "listing": "https://www.woto.be/listings/volkswagen/taigo/abb64c3a-09a4-4350-a4c9-3faa9e4705ad",
       "slot": "2026-11-27T09:00",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "1re photo (bandeau Salaz en haut, recouvert par la courbe)"
     },
     {
       "channel": "meta_sticker",
