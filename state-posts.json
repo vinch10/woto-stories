@@ -424,7 +424,8 @@
       "modele": "Citroën Berlingo 1.5 BlueHDi Shine",
       "status": "programme_fb_ig",
       "prix": 16999,
-      "boucle": true
+      "boucle": true,
+      "comment": "ok"
     },
     {
       "slot": "2026-11-26T21:30",
