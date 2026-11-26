@@ -404,7 +404,8 @@
       "modele": "Renault Trafic VIP 2.0 dCi",
       "status": "programme_fb_ig",
       "prix": 50000,
-      "boucle": true
+      "boucle": true,
+      "comment": "ok"
     },
     {
       "slot": "2026-11-26T17:00",
