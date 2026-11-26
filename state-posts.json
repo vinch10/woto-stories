@@ -475,10 +475,11 @@
     {
       "slot": "2026-11-28T07:30",
       "garage": "garage-des-chaufours",
-      "listing": "https://app.woto.be/listings/porsche/panamera/2bc20908-cb9d-42b3-9a0f-231ebfb7c045",
-      "modele": "Porsche Panamera 4S",
+      "listing": "https://app.woto.be/listings/audi/q3/d089c98e-3368-42de-9217-14a1d19da176",
+      "modele": "Audi Q3 Sportback 1.5 TFSI S line",
       "status": "reserve",
-      "prix": 69999
+      "prix": 45999,
+      "note": "Porsche Panamera 4S écartée : fiche sans photo propre (le scan ne remonte que des photos d'autres annonces)"
     },
     {
       "slot": "2026-11-28T12:15",
@@ -500,18 +501,20 @@
     {
       "slot": "2026-11-28T19:30",
       "garage": "sabanauto-quaregnon",
-      "listing": "https://app.woto.be/listings/bmw/x3/b491e892-f686-4db9-9f85-632158038562",
-      "modele": "BMW X3 xDrive20d Pack M",
+      "listing": "https://app.woto.be/listings/volkswagen/taigo/b04da09d-9f4b-4696-9506-30eadc7ed04f",
+      "modele": "Volkswagen Taigo 1.0 TSI R-Line",
       "status": "reserve",
-      "prix": 31990
+      "prix": 26990,
+      "note": "BMW X3 écartée : aucune photo avec la voiture entière"
     },
     {
       "slot": "2026-11-28T21:30",
       "garage": "mons-automobiles",
-      "listing": "https://app.woto.be/listings/bmw/x1/84ae5b37-abf6-47bd-be81-5b15eed7d576",
-      "modele": "BMW X1 sDrive16d Pack M",
+      "listing": "https://app.woto.be/listings/bmw/x5/10efe7e8-4306-414b-858c-8814ea6c1de5",
+      "modele": "BMW X5 xDrive30d Pack M",
       "status": "reserve",
-      "prix": 20999
+      "prix": 19499,
+      "note": "BMW X1 écartée : fiche sans photo propre"
     }
   ]
 }
