@@ -451,7 +451,8 @@
       "listing": "https://app.woto.be/listings/toyota/aygo-x/6c1a7514-1361-4054-953a-3fe51b196d9a",
       "modele": "Toyota Aygo X 1.0",
       "status": "programme_fb_ig",
-      "prix": 12999
+      "prix": 12999,
+      "comment": "ok"
     },
     {
       "slot": "2026-11-27T17:00",
