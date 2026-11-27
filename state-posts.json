@@ -520,6 +520,46 @@
       "status": "programme_fb_ig",
       "prix": 19499,
       "note": "BMW X1 écartée : fiche sans photo propre"
+    },
+    {
+      "slot": "2026-11-29T07:30",
+      "garage": "ryan-khemir",
+      "listing": "https://app.woto.be/listings/mercedes-benz/gle-350/4be5952e-e5d5-4669-b9b8-9dfc5c9ef055",
+      "modele": "Mercedes-Benz GLE 350 de Coupé 4MATIC",
+      "status": "reserve",
+      "prix": 85900
+    },
+    {
+      "slot": "2026-11-29T12:15",
+      "garage": "garage-priv-wavre",
+      "listing": "https://app.woto.be/listings/porsche/911/03565ab8-65fd-40db-bd60-d21de02b3e92",
+      "modele": "Porsche 911 Targa 2.7",
+      "status": "reserve",
+      "prix": 62500
+    },
+    {
+      "slot": "2026-11-29T17:00",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://app.woto.be/listings/kia/xceed/985002a3-ca52-4e59-a5ce-0d4a15ca5d2e",
+      "modele": "Kia XCeed 1.0 T-GDi GT Line",
+      "status": "reserve",
+      "prix": 23890
+    },
+    {
+      "slot": "2026-11-29T19:30",
+      "garage": "salaz-motors",
+      "listing": "https://app.woto.be/listings/skoda/scala/52a6fa08-d1fd-4506-94d5-33223bdbe2a0",
+      "modele": "Škoda Scala 1.0 TSI Ambition",
+      "status": "reserve",
+      "prix": 14990
+    },
+    {
+      "slot": "2026-11-29T21:30",
+      "garage": "garage-des-chaufours",
+      "listing": "https://app.woto.be/listings/porsche/panamera/2bc20908-cb9d-42b3-9a0f-231ebfb7c045",
+      "modele": "Porsche Panamera 4S 2.9 V6",
+      "status": "reserve",
+      "prix": 69999
     }
   ]
 }
