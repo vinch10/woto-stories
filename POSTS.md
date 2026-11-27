@@ -5,12 +5,12 @@ Facebook 1080 × 1080, Instagram 1080 × 1350. Premier commentaire posté à 7h3
 
 ## Vendredi 27 novembre
 
-7h30 (Renault Twingo 1.2, MC Cars) sorti. Restent :
+7h30 (Renault Twingo 1.2, MC Cars) et 12h15 (Toyota Aygo X 1.0, Wattiez Motors) sortis. Restent :
 
-| 12h15 | 17h | 19h30 | 21h30 |
-|---|---|---|---|
-| <img src="posts/2026-11-27/woto-toyota-aygo-x-12h15-fb.jpg" width="160"> | <img src="posts/2026-11-27/woto-kia-ceed-17h-fb.jpg" width="160"> | <img src="posts/2026-11-27/woto-range-rover-evoque-19h30-fb.jpg" width="160"> | <img src="posts/2026-11-27/woto-nissan-x-trail-21h30-fb.jpg" width="160"> |
-| Toyota Aygo X 1.0, Wattiez Motors (12 999 €, absente du scan du 27/11 10h) | Kia Ceed 1.0 T-GDi Pulse, Grs Auto (14 990 €) | Range Rover Evoque 2.0 TD4, Salaz Motors (12 990 €) | Nissan X-Trail e-Power, DSH Cars (25 990 €) |
+| 17h | 19h30 | 21h30 |
+|---|---|---|
+| <img src="posts/2026-11-27/woto-kia-ceed-17h-fb.jpg" width="160"> | <img src="posts/2026-11-27/woto-range-rover-evoque-19h30-fb.jpg" width="160"> | <img src="posts/2026-11-27/woto-nissan-x-trail-21h30-fb.jpg" width="160"> |
+| Kia Ceed 1.0 T-GDi Pulse, Grs Auto (14 990 €) | Range Rover Evoque 2.0 TD4, Salaz Motors (12 990 €) | Nissan X-Trail e-Power, DSH Cars (25 990 €) |
 
 ## Samedi 28 novembre
 
