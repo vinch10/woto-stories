@@ -700,6 +700,86 @@
       "slot": "2026-11-27T21:00",
       "status": "programme_fb_ig",
       "note": "2e photo (1re avec cadre jaune Garage Privé)"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "ryan-khemir",
+      "listing": "https://www.woto.be/listings/mercedes-benz/gla-180/934c6833-38ff-4dec-8724-aac1181dc85f",
+      "slot": "2026-11-28T07:30",
+      "status": "reserve",
+      "note": "réservé au passage du 27/11 8h12"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://www.woto.be/listings/kia/stonic/92dc278d-fdcf-4ccc-aa33-80dfa650f06a",
+      "slot": "2026-11-28T09:00",
+      "status": "reserve",
+      "note": "réservé au passage du 27/11 8h12"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "wattiez-motors-srl",
+      "listing": "https://www.woto.be/listings/opel/astra/7c9d16a4-865d-407b-a4eb-8ca21d62242e",
+      "slot": "2026-11-28T10:30",
+      "status": "reserve",
+      "note": "réservé au passage du 27/11 8h12"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "garage-priv-wavre",
+      "listing": "https://www.woto.be/listings/bmw/218/284312ab-73ec-492f-9e29-503e311d693d",
+      "slot": "2026-11-28T12:00",
+      "status": "reserve",
+      "note": "réservé au passage du 27/11 8h12"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "salaz-motors",
+      "listing": "https://www.woto.be/listings/bmw/118/d4fc65c7-a274-49cf-8627-b12dac0cc286",
+      "slot": "2026-11-28T13:30",
+      "status": "reserve",
+      "note": "réservé au passage du 27/11 8h12"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "mons-automobiles",
+      "listing": "https://www.woto.be/listings/toyota/proace-city/5274fa86-0116-4aee-9624-da8d2f6d32bd",
+      "slot": "2026-11-28T15:00",
+      "status": "reserve",
+      "note": "réservé au passage du 27/11 8h12"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "sabanauto-quaregnon",
+      "listing": "https://www.woto.be/listings/bmw/x3/b491e892-f686-4db9-9f85-632158038562",
+      "slot": "2026-11-28T16:30",
+      "status": "reserve",
+      "note": "réservé au passage du 27/11 8h12"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "kia-la-louvire-motors",
+      "listing": "https://www.woto.be/listings/kia/ceed/b358c30a-5ae4-471b-a499-0242c1f08076",
+      "slot": "2026-11-28T18:00",
+      "status": "reserve",
+      "note": "réservé au passage du 27/11 8h12"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "garage-priv-wavre",
+      "listing": "https://www.woto.be/listings/peugeot/e-208/55964c71-5d64-4c3a-99c7-eb4f449c25e5",
+      "slot": "2026-11-28T19:30",
+      "status": "reserve",
+      "note": "réservé au passage du 27/11 8h12"
+    },
+    {
+      "channel": "meta_sticker",
+      "garage": "ryan-khemir",
+      "listing": "https://www.woto.be/listings/mercedes-benz/cls-220/86711799-547f-4441-abb8-e1e2ab635d6b",
+      "slot": "2026-11-28T21:00",
+      "status": "reserve",
+      "note": "réservé au passage du 27/11 8h12"
     }
   ]
 }
