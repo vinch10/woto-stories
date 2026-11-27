@@ -526,7 +526,7 @@
       "garage": "ryan-khemir",
       "listing": "https://app.woto.be/listings/mercedes-benz/gle-350/4be5952e-e5d5-4669-b9b8-9dfc5c9ef055",
       "modele": "Mercedes-Benz GLE 350 de Coupé 4MATIC",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 85900
     },
     {
@@ -534,7 +534,7 @@
       "garage": "garage-priv-wavre",
       "listing": "https://app.woto.be/listings/porsche/911/03565ab8-65fd-40db-bd60-d21de02b3e92",
       "modele": "Porsche 911 S 2.7 Targa",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 62500
     },
     {
@@ -542,7 +542,7 @@
       "garage": "kia-la-louvire-motors",
       "listing": "https://app.woto.be/listings/kia/xceed/985002a3-ca52-4e59-a5ce-0d4a15ca5d2e",
       "modele": "Kia XCeed 1.0 T-GDi GT Line",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 23890
     },
     {
@@ -550,7 +550,7 @@
       "garage": "salaz-motors",
       "listing": "https://app.woto.be/listings/skoda/scala/52a6fa08-d1fd-4506-94d5-33223bdbe2a0",
       "modele": "Škoda Scala 1.0 TSI Ambition",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 14990
     },
     {
@@ -558,7 +558,7 @@
       "garage": "garage-des-chaufours",
       "listing": "https://app.woto.be/listings/mercedes-benz/c-200/e9391b33-1b09-4757-a567-93feab20b5d7",
       "modele": "Mercedes-Benz C 200 d AMG Line",
-      "status": "reserve",
+      "status": "programme_fb_ig",
       "prix": 38999
     }
   ]
