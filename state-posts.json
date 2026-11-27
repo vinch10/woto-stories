@@ -469,7 +469,8 @@
       "listing": "https://app.woto.be/listings/land-rover/range-rover-evoque/9652fb74-551e-4f14-9d5b-d16a89783625",
       "modele": "Range Rover Evoque 2.0 TD4",
       "status": "programme_fb_ig",
-      "prix": 12990
+      "prix": 12990,
+      "comment": "ok"
     },
     {
       "slot": "2026-11-27T21:30",
