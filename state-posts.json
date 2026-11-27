@@ -533,7 +533,7 @@
       "slot": "2026-11-29T12:15",
       "garage": "garage-priv-wavre",
       "listing": "https://app.woto.be/listings/porsche/911/03565ab8-65fd-40db-bd60-d21de02b3e92",
-      "modele": "Porsche 911 Targa 2.7",
+      "modele": "Porsche 911 S 2.7 Targa",
       "status": "reserve",
       "prix": 62500
     },
@@ -556,10 +556,10 @@
     {
       "slot": "2026-11-29T21:30",
       "garage": "garage-des-chaufours",
-      "listing": "https://app.woto.be/listings/porsche/panamera/2bc20908-cb9d-42b3-9a0f-231ebfb7c045",
-      "modele": "Porsche Panamera 4S 2.9 V6",
+      "listing": "https://app.woto.be/listings/mercedes-benz/c-200/e9391b33-1b09-4757-a567-93feab20b5d7",
+      "modele": "Mercedes-Benz C 200 d AMG Line",
       "status": "reserve",
-      "prix": 69999
+      "prix": 38999
     }
   ]
 }
