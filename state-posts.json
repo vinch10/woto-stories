@@ -460,7 +460,8 @@
       "listing": "https://app.woto.be/listings/kia/ceed/2f02ea2c-98c7-4dbb-a6ab-e79900270b26",
       "modele": "Kia Ceed 1.0 T-GDi Pulse",
       "status": "programme_fb_ig",
-      "prix": 14990
+      "prix": 14990,
+      "comment": "ok"
     },
     {
       "slot": "2026-11-27T19:30",
