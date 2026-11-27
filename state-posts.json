@@ -442,7 +442,8 @@
       "listing": "https://app.woto.be/listings/renault/twingo/fd2c8f3e-418c-416c-b602-cbd647361b38",
       "modele": "Renault Twingo 1.2",
       "status": "programme_fb_ig",
-      "prix": 2850
+      "prix": 2850,
+      "comment": "ok"
     },
     {
       "slot": "2026-11-27T12:15",
