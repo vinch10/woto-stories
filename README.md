@@ -4,12 +4,12 @@ Mis à jour à chaque passage. Heures de Bruxelles. Sur chaque story, Facebook e
 
 ## Samedi 28 novembre
 
-Sortie : 7h30 Mercedes GLA 180 (Ryan Khemir). À venir :
+Sorties : 7h30 Mercedes GLA 180 (Ryan Khemir), 9h00 Kia Stonic (Kia La Louvière), 10h30 Opel Astra (Wattiez Motors), 12h00 BMW 218 (Garage Privé Wavre), 13h30 Mercedes Vito (Wattiez Motors). À venir :
 
-| 9h00 | 10h30 | 12h00 | 13h30 | 15h00 |
-|---|---|---|---|---|
-| <img src="stories/2026-11-28/woto-stonic-9h00.jpg" width="160"> | <img src="stories/2026-11-28/woto-astra-10h30.jpg" width="160"> | <img src="stories/2026-11-28/woto-bmw218-12h00.jpg" width="160"> | <img src="stories/2026-11-28/woto-vito-13h30.jpg" width="160"> | <img src="stories/2026-11-28/woto-proace-city-15h00.jpg" width="160"> |
-| Kia Stonic, Kia La Louvière | Opel Astra, Wattiez Motors | BMW 218, Garage Privé Wavre | Mercedes Vito, Wattiez Motors | Toyota Proace City, Mons Automobiles |
+| 15h00 |
+|---|
+| <img src="stories/2026-11-28/woto-proace-city-15h00.jpg" width="160"> |
+| Toyota Proace City, Mons Automobiles |
 
 | 16h30 | 18h00 | 19h30 | 21h00 |
 |---|---|---|---|
@@ -31,5 +31,7 @@ Sortie : 7h30 Mercedes GLA 180 (Ryan Khemir). À venir :
 Toutes des voitures jamais montrées (pas de boucle). Sautés : Salaz Motors (bandeau Salaz et voiture coupée : Golf, Ceed SW), SabanAuto (voiture coupée ou toit sous la courbe sur toutes les photos), Garage des Chaufours (2e prix « Pour Professionnels » sur toutes les fiches), MC Cars (Suzuki, voiture coupée), Luxury Cars (seule fiche : Alfa Giulia 1978 pour pièces). Écartées : Mons Picanto (galerie avec photos d'autres garages), Mons Trafic (prix + TVA), Volvo XC60 SabanAuto (autre prix dans la description), Wattiez Talento et Berlingo (toit sous la courbe).
 
 Passage du 28/11 8h12 : scan 373 fiches (30 motos sans données), 16 garages connus, aucun nouveau garage pro ; agenda Meta complet aujourd'hui (10/10) ; 29/11 : 10 stories programmées FB+IG ; aucun doublon avec les publications, toutes les stories à venir au stock au même prix, rien à rattraper.
+
+Passage du 28/11 14h12 : scan 373 fiches (30 motos sans données), 16 garages pros, aucun nouveau garage ; 15 stories à venir (28/11 15h00 → 29/11 21h00) toutes programmées FB+IG dans Meta, toutes au stock au même prix, aucun doublon avec les publications ; rien à rattraper.
 
 Règles : [RULES.md](RULES.md)
