@@ -571,7 +571,7 @@
       "garage": "ppauto",
       "listing": "https://app.woto.be/listings/bmw/116/898876da-04e4-4f75-8f08-3c8e25b9ce4d",
       "modele": "BMW 116d",
-      "status": "reserve",
+      "status": "visuels_prets_non_programme",
       "prix": 8490,
       "boucle": true
     },
@@ -580,7 +580,7 @@
       "garage": "luxury-cars-center-by-alfonso",
       "listing": "https://app.woto.be/listings/maserati/ghibli/00ffcef3-dede-41b7-8dd1-b9a13b662463",
       "modele": "Maserati Ghibli 2.0 V6 Bi-Turbo",
-      "status": "reserve",
+      "status": "visuels_prets_non_programme",
       "prix": 24999,
       "boucle": true
     },
@@ -589,7 +589,7 @@
       "garage": "auto-vedette-fils-srl",
       "listing": "https://app.woto.be/listings/volkswagen/golf-sportsvan/fdb3f9d3-8f7d-4d4d-b405-d01e721f2f07",
       "modele": "Volkswagen Golf Sportsvan 1.0 TSI",
-      "status": "reserve",
+      "status": "visuels_prets_non_programme",
       "prix": 12990,
       "boucle": true
     },
@@ -598,7 +598,7 @@
       "garage": "cardoen-mons",
       "listing": "https://app.woto.be/listings/kia/sportage/f954aa9c-234e-4ca1-96a2-c5c9039f8ac5",
       "modele": "Kia Sportage 1.7 CRDi",
-      "status": "reserve",
+      "status": "visuels_prets_non_programme",
       "prix": 12999,
       "boucle": true
     },
@@ -607,7 +607,7 @@
       "garage": "mc-cars",
       "listing": "https://app.woto.be/listings/suzuki/alto/b6399188-10ff-4ebb-b591-f932b146b36e",
       "modele": "Suzuki Alto 1.0",
-      "status": "reserve",
+      "status": "visuels_prets_non_programme",
       "prix": 2850
     }
   ]
