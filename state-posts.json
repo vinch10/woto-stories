@@ -507,7 +507,8 @@
       "modele": "Maserati Levante GranSport",
       "status": "programme_fb_ig",
       "prix": 49990,
-      "boucle": true
+      "boucle": true,
+      "comment": "ok"
     },
     {
       "slot": "2026-11-28T19:30",
