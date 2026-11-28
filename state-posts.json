@@ -488,7 +488,8 @@
       "modele": "Audi Q3 Sportback 1.5 TFSI S line",
       "status": "programme_fb_ig",
       "prix": 45999,
-      "note": "Porsche Panamera 4S écartée : fiche sans photo propre (le scan ne remonte que des photos d'autres annonces)"
+      "note": "Porsche Panamera 4S écartée : fiche sans photo propre (le scan ne remonte que des photos d'autres annonces)",
+      "comment": "ok"
     },
     {
       "slot": "2026-11-28T12:15",
