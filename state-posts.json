@@ -517,7 +517,8 @@
       "modele": "Mercedes-Benz CLA 200",
       "status": "programme_fb_ig",
       "prix": 20990,
-      "note": "BMW X3 puis VW Taigo écartés : photos trop serrées, voiture coupée"
+      "note": "BMW X3 puis VW Taigo écartés : photos trop serrées, voiture coupée",
+      "comment": "ok"
     },
     {
       "slot": "2026-11-28T21:30",
