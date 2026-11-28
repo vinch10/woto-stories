@@ -786,72 +786,80 @@
       "garage": "ryan-khemir",
       "listing": "https://www.woto.be/listings/mercedes-benz/a-200/859016fc-63ab-4867-8856-b1fa94a81d63",
       "slot": "2026-11-29T07:30",
-      "status": "reserve",
-      "note": "1re photo Salaz : bandeau Salaz visible et voiture coupée, garage sauté"
+      "status": "programme_fb_ig",
+      "note": "5e photo (profil) ; Salaz sauté (bandeau Salaz visible, voiture coupée)"
     },
     {
       "channel": "meta_sticker",
       "garage": "wattiez-motors-srl",
       "listing": "https://www.woto.be/listings/peugeot/5008/27620a6c-4d5f-4556-9c55-7cf1264b7d17",
       "slot": "2026-11-29T09:00",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "3e photo, --photo-h 810"
     },
     {
       "channel": "meta_sticker",
       "garage": "mons-automobiles",
       "listing": "https://www.woto.be/listings/seat/ibiza/8a0560f7-f572-4a82-84f2-dac42615f481",
       "slot": "2026-11-29T10:30",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "4e photo, --photo-h 810"
     },
     {
       "channel": "meta_sticker",
       "garage": "kia-la-louvire-motors",
       "listing": "https://www.woto.be/listings/kia/sportage/64396620-5e54-4c9b-9e37-26d54245b987",
       "slot": "2026-11-29T12:00",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "1re photo (vitrine Kia)"
     },
     {
       "channel": "meta_sticker",
       "garage": "garage-priv-wavre",
       "listing": "https://www.woto.be/listings/tesla/model-3/68dc36a9-75a6-4b9e-8014-5252771452d2",
       "slot": "2026-11-29T13:30",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "3e photo (1re avec cadre jaune Garage Privé)"
     },
     {
       "channel": "meta_sticker",
       "garage": "ryan-khemir",
       "listing": "https://www.woto.be/listings/mercedes-benz/gls-350/f7bf3d1f-6dc9-4a99-8d3b-95c3780ac711",
       "slot": "2026-11-29T15:00",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "9e photo (3/4 arrière), --photo-h 810 ; photos avant : voiture coupée"
     },
     {
       "channel": "meta_sticker",
       "garage": "wattiez-motors-srl",
       "listing": "https://www.woto.be/listings/opel/zafira-tourer/8139558d-f902-4726-917b-cb5c3dc14eed",
       "slot": "2026-11-29T16:30",
-      "status": "reserve",
-      "note": "Kia Ceed SW Salaz écartée (bandeau Salaz)"
+      "status": "programme_fb_ig",
+      "note": "3e photo ; Kia Ceed SW Salaz écartée (bandeau Salaz)"
     },
     {
       "channel": "meta_sticker",
       "garage": "mons-automobiles",
       "listing": "https://www.woto.be/listings/citroen/c5-aircross/bfe2f90f-f89e-409b-bacd-033a441b7ced",
       "slot": "2026-11-29T18:00",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "9e photo (profil) ; photos avant : voiture coupée"
     },
     {
       "channel": "meta_sticker",
       "garage": "kia-la-louvire-motors",
       "listing": "https://www.woto.be/listings/kia/niro/84c24af1-3afd-4c99-a370-017065f1ba2f",
       "slot": "2026-11-29T19:30",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "3e photo"
     },
     {
       "channel": "meta_sticker",
       "garage": "garage-priv-wavre",
       "listing": "https://www.woto.be/listings/honda/cr-v/b0609bc2-7b9d-46f8-847a-444959761a88",
       "slot": "2026-11-29T21:00",
-      "status": "reserve"
+      "status": "programme_fb_ig",
+      "note": "2e photo (1re avec cadre jaune Garage Privé)"
     }
   ]
 }
