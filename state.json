@@ -783,10 +783,11 @@
     },
     {
       "channel": "meta_sticker",
-      "garage": "salaz-motors",
-      "listing": "https://www.woto.be/listings/volkswagen/golf/e235ad01-4dc1-4558-b018-db615fb2ad9e",
+      "garage": "ryan-khemir",
+      "listing": "https://www.woto.be/listings/mercedes-benz/a-200/859016fc-63ab-4867-8856-b1fa94a81d63",
       "slot": "2026-11-29T07:30",
-      "status": "reserve"
+      "status": "reserve",
+      "note": "1re photo Salaz : bandeau Salaz visible et voiture coupée, garage sauté"
     },
     {
       "channel": "meta_sticker",
@@ -825,10 +826,11 @@
     },
     {
       "channel": "meta_sticker",
-      "garage": "salaz-motors",
-      "listing": "https://www.woto.be/listings/kia/ceed/cee2ee9c-f457-44ad-82d6-cd0781052d2a",
+      "garage": "wattiez-motors-srl",
+      "listing": "https://www.woto.be/listings/opel/zafira-tourer/8139558d-f902-4726-917b-cb5c3dc14eed",
       "slot": "2026-11-29T16:30",
-      "status": "reserve"
+      "status": "reserve",
+      "note": "Kia Ceed SW Salaz écartée (bandeau Salaz)"
     },
     {
       "channel": "meta_sticker",
