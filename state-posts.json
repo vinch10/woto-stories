@@ -565,6 +565,50 @@
       "modele": "Mercedes-Benz C 200 d AMG Line",
       "status": "programme_fb_ig",
       "prix": 38999
+    },
+    {
+      "slot": "2026-11-30T07:30",
+      "garage": "ppauto",
+      "listing": "https://app.woto.be/listings/bmw/116/898876da-04e4-4f75-8f08-3c8e25b9ce4d",
+      "modele": "BMW 116d",
+      "status": "reserve",
+      "prix": 8490,
+      "boucle": true
+    },
+    {
+      "slot": "2026-11-30T12:15",
+      "garage": "luxury-cars-center-by-alfonso",
+      "listing": "https://app.woto.be/listings/maserati/ghibli/00ffcef3-dede-41b7-8dd1-b9a13b662463",
+      "modele": "Maserati Ghibli 2.0 V6 Bi-Turbo",
+      "status": "reserve",
+      "prix": 24999,
+      "boucle": true
+    },
+    {
+      "slot": "2026-11-30T17:00",
+      "garage": "auto-vedette-fils-srl",
+      "listing": "https://app.woto.be/listings/volkswagen/golf-sportsvan/fdb3f9d3-8f7d-4d4d-b405-d01e721f2f07",
+      "modele": "Volkswagen Golf Sportsvan 1.0 TSI",
+      "status": "reserve",
+      "prix": 12990,
+      "boucle": true
+    },
+    {
+      "slot": "2026-11-30T19:30",
+      "garage": "cardoen-mons",
+      "listing": "https://app.woto.be/listings/kia/sportage/f954aa9c-234e-4ca1-96a2-c5c9039f8ac5",
+      "modele": "Kia Sportage 1.7 CRDi",
+      "status": "reserve",
+      "prix": 12999,
+      "boucle": true
+    },
+    {
+      "slot": "2026-11-30T21:30",
+      "garage": "mc-cars",
+      "listing": "https://app.woto.be/listings/suzuki/alto/b6399188-10ff-4ebb-b591-f932b146b36e",
+      "modele": "Suzuki Alto 1.0",
+      "status": "reserve",
+      "prix": 2850
     }
   ]
 }
