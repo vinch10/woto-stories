@@ -5,12 +5,12 @@ Facebook 1080 × 1080, Instagram 1080 × 1350. Premier commentaire posté à 7h3
 
 ## Samedi 28 novembre
 
-7h30 (Audi Q3 Sportback 1.5 TFSI S line, Garage des Chaufours) sorti. Restent :
+7h30 (Audi Q3 Sportback 1.5 TFSI S line, Garage des Chaufours) et 12h15 (Kia Sportage 1.6 T-GDi GT Line, Kia - La Louvière Motors) sortis. Restent :
 
-| 12h15 | 17h | 19h30 | 21h30 |
-|---|---|---|---|
-| <img src="posts/2026-11-28/woto-kia-sportage-12h15-fb.jpg" width="160"> | <img src="posts/2026-11-28/woto-maserati-levante-17h-fb.jpg" width="160"> | <img src="posts/2026-11-28/woto-mercedes-cla-200-19h30-fb.jpg" width="160"> | <img src="posts/2026-11-28/woto-bmw-x5-21h30-fb.jpg" width="160"> |
-| Kia Sportage 1.6 T-GDi GT Line, Kia - La Louvière Motors (26 490 €) | Maserati Levante GranSport, BCS Franzese (49 990 €, boucle) | Mercedes-Benz CLA 200, SabanAuto Quaregnon (20 990 €) | BMW X5 xDrive30d Pack M, Mons Automobiles (19 499 €) |
+| 17h | 19h30 | 21h30 |
+|---|---|---|
+| <img src="posts/2026-11-28/woto-maserati-levante-17h-fb.jpg" width="160"> | <img src="posts/2026-11-28/woto-mercedes-cla-200-19h30-fb.jpg" width="160"> | <img src="posts/2026-11-28/woto-bmw-x5-21h30-fb.jpg" width="160"> |
+| Maserati Levante GranSport, BCS Franzese (49 990 €, boucle) | Mercedes-Benz CLA 200, SabanAuto Quaregnon (20 990 €) | BMW X5 xDrive30d Pack M, Mons Automobiles (19 499 €) |
 
 ## Dimanche 29 novembre
 
